@@ -81,7 +81,7 @@ Remember: You can't repeat the same action as your previous turn, and always ann
 
 ### Video Tutorial
 
-![Scythe in About 3 MinutesScythe in about 3 minutes![](moz-extension://ca2bf6e4-bc50-4a9a-9299-1fdc48d46ce6/icons/logo-2r.svg)](https://www.youtube.com/watch?v=YC3ysp3XInM)
+![Scythe in About 3 MinutesScythe in about 3 minutes!](https://www.youtube.com/watch?v=YC3ysp3XInM)
 
 
 ![](https://youtu.be/ffMLIL5qGQg)
