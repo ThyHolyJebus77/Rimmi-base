@@ -1,6 +1,18 @@
-# Risk: Star Wars
+---
+PlayerCount: "2"
+DurationETA: 30-45 minutes
+Summary: "Risk: Star Wars is a two-player card and dice-based game set in the Star Wars universe. Players control either the Rebel Alliance or the Galactic Empire, battling across three simultaneous conflicts: the space battle around the Death Star, the shield generator assault on Endor, and the lightsaber duel between Luke Skywalker and Darth Vader. The game uses a simple order system where players play cards to activate units and perform actions. Victory is achieved by succeeding in specific objectives for each conflict."
+BoardGameType: Competitive
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/K54XDlW9-vq8ozr1ye-PLg__imagepage/img/hbPf5_cd8A7ReO0PwCrHPUPrSF0=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4915114.jpg)"
+---
+
+# Risk: Star Wars (2015)
 ## Brief Summary
 Risk: Star Wars is a two-player card and dice-based game set in the Star Wars universe. Players control either the Rebel Alliance or the Galactic Empire, battling across three simultaneous conflicts: the space battle around the Death Star, the shield generator assault on Endor, and the lightsaber duel between Luke Skywalker and Darth Vader. The game uses a simple order system where players play cards to activate units and perform actions. Victory is achieved by succeeding in specific objectives for each conflict.
+
+![](https://cf.geekdo-images.com/K54XDlW9-vq8ozr1ye-PLg__imagepage/img/hbPf5_cd8A7ReO0PwCrHPUPrSF0=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4915114.jpg)
 
 ---
 ## Comparisons to Civilization 5/6
@@ -70,8 +82,12 @@ Remember, each conflict can impact the others, so plan your strategy across all 
 ## Additional Notes
 The game is designed to recreate the final battle of Return of the Jedi, with each of the three conflicts potentially deciding the outcome of the game. The simple ruleset and short playtime make it accessible for casual players and Star Wars fans.
 
+## BGG
+
+<iframe src="https://boardgamegeek.com/boardgame/183880/risk-star-wars-edition" width=720 height=720></iframe>
+
 ---
-# Risk: Star Wars - Rules
+# Risk: Star Wars (2015) - Rules
 ## ATTACK ON THE DEATH STAR
 
 **Empire Orders**

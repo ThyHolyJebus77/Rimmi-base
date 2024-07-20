@@ -1,9 +1,18 @@
+---
+PlayerCount: 
+DurationETA: 
+Summary: 
+BoardGameType: 
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/yGO9rEp57fabLG6sXO7SUQ__imagepage/img/l6UFfHJJDzOTAZb2G5YFJfJK0i0=/fit-in/900x600/filters:no_upscale():strip_icc()/pic1875823.jpg)"
+---
 # Fief: France 1429
 
 ## Brief Summary
 [2-4 sentences describing the core mechanics and theme of the game]
 
-![]()
+![](https://cf.geekdo-images.com/yGO9rEp57fabLG6sXO7SUQ__imagepage/img/l6UFfHJJDzOTAZb2G5YFJfJK0i0=/fit-in/900x600/filters:no_upscale():strip_icc()/pic1875823.jpg)
 
 ---
 ## Comparisons to Civilization 5/6

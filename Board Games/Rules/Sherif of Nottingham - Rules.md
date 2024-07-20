@@ -1,7 +1,19 @@
+---
+PlayerCount: 
+DurationETA: 
+Summary: 
+BoardGameType: 
+tags:
+  - BoardGame
+CoverArt: "![](https://steamuserimages-a.akamaihd.net/ugc/959717316651582758/BB73909A279C264318CAECE185EB3066F0CF6D94/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)"
+---
+
 # Sherif of Nottingham
 
 ## Brief Summary
 [1-2 sentences describing the core mechanics and theme of the game]
+
+![](https://steamuserimages-a.akamaihd.net/ugc/959717316651582758/BB73909A279C264318CAECE185EB3066F0CF6D94/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 
 ---
 
@@ -48,3 +60,7 @@
 
 
 ---
+
+# Workshop
+
+[Tabletop Sim](https://steamcommunity.com/sharedfiles/filedetails/?id=1484389327)

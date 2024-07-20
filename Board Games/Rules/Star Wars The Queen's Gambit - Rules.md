@@ -1,3 +1,13 @@
+---
+PlayerCount: "2"
+DurationETA: 120 Minutes
+Summary: "Star Wars: The Queen's Gambit is a two-player board game that recreates the climactic battle from Star Wars Episode I: The Phantom Menace. Players control either the Naboo forces or the Trade Federation, fighting simultaneously across four different battle areas. The game combines card-driven actions, dice-based combat, and strategic positioning to simulate the multi-front conflict."
+BoardGameType: Competitive
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/bz5nHaO3qAqNRKV4jketEQ__imagepage/img/ci-PB_0qMzVVCXxH2b24gu34_Q8=/fit-in/900x600/filters:no_upscale():strip_icc()/pic35506.jpg)"
+---
+
 # Star Wars: The Queen's Gambit
 ## Brief Summary
 Star Wars: The Queen's Gambit is a two-player board game that recreates the climactic battle from Star Wars Episode I: The Phantom Menace. Players control either the Naboo forces or the Trade Federation, fighting simultaneously across four different battle areas. The game combines card-driven actions, dice-based combat, and strategic positioning to simulate the multi-front conflict.

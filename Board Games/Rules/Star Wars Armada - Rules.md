@@ -1,3 +1,14 @@
+---
+PlayerCount: 1+
+DurationETA: 120+ Minutes
+Summary: "Star Wars: Armada is a tactical fleet combat game set in the Star Wars universe. Players command fleets of capital ships and squadrons of starfighters, manoeuvring their forces and engaging in strategic battles. The game combines tactical decision-making with the excitement of large-scale space combat."
+BoardGameType: Competitive & Co-Op
+tags:
+  - BoardGame
+CoverArt: "![https://boardgamegeek.com/boardgame/163745/star-wars-armada](https://cf.geekdo-images.com/oKBz9HmfYDsgDgpy06LPoQ__imagepagezoom/img/W6OC1qCkRBa_kf0IBDePZgMHc6c=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic2355171.jpg)"
+MyRating: 8
+---
+
 # Star Wars: Armada
 
 ## Brief Summary
@@ -1329,5 +1340,6 @@ only the final position matters.
 ---
 # Workshop Link
 
-![]()
+[Tabletop Sim (Scripted)](https://steamcommunity.com/sharedfiles/filedetails/?id=713586082)
 
+---

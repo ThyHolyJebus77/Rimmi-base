@@ -1,3 +1,13 @@
+---
+PlayerCount: "2"
+DurationETA: 90+ Minutes
+Summary: "The Hobbit: The Battle of Five Armies is a two-player strategy game based on the climactic battle from J.R.R. Tolkien's novel. One player controls the Free Peoples (Elves, Dwarves, and Men) while the other commands the Shadow armies (Orcs, Wargs, and Goblins) in a struggle for control of the Lonely Mountain."
+BoardGameType: Competitive
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/SQBx844N1Ay31pm368Ckkg__imagepage/img/whnarQNiMKNSZbcfnNMk3XOxXc4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic1886964.jpg)"
+---
+
 # The Hobbit: The Battle of Five Armies
 ## Brief Summary
 The Hobbit: The Battle of Five Armies is a two-player strategy game based on the climactic battle from J.R.R. Tolkien's novel. One player controls the Free Peoples (Elves, Dwarves, and Men) while the other commands the Shadow armies (Orcs, Wargs, and Goblins) in a struggle for control of the Lonely Mountain.

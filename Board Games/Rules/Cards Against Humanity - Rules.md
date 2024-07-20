@@ -1,3 +1,13 @@
+---
+PlayerCount: 
+DurationETA: 
+Summary: 
+BoardGameType: 
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/nYLrPiI9gnvlrwOrKQ4_CA__imagepage/img/ksHPogfKJqWT-ASJD4t-kyLhf_M=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2909692.jpg)"
+---
+
 # Cards Against Humanity
 
 ## Brief Summary

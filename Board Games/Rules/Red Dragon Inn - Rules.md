@@ -1,9 +1,19 @@
+---
+PlayerCount: 2+
+DurationETA: 30-60 minutes
+Summary: The Red Dragon Inn is a competitive card game where players take on the roles of adventurers drinking and gambling in a fantasy tavern after a successful quest. Players use their character-specific decks to attack others, defend themselves, and participate in drinking contests and gambling rounds. The last player standing - either by maintaining their fortitude, avoiding passing out from alcohol, or keeping their gold - wins the game.
+BoardGameType: Competitive
+tags:
+  - BoardGame
+CoverArt: "![](https://steamuserimages-a.akamaihd.net/ugc/2294083963167034795/7B61C8A5136290D9DDF31A253BD35C88935E64C4/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)"
+---
+
 # Red Dragon Inn
 
 ## Brief Summary
 The Red Dragon Inn is a competitive card game where players take on the roles of adventurers drinking and gambling in a fantasy tavern after a successful quest. Players use their character-specific decks to attack others, defend themselves, and participate in drinking contests and gambling rounds. The last player standing - either by maintaining their fortitude, avoiding passing out from alcohol, or keeping their gold - wins the game.
 
-![](https://cf.geekdo-images.com/RCXedcfgn5LSfH4-kOUvLA__imagepage/img/OO77sLjdIoIr_4qW9NuYmD9fsm4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic291048.jpg)
+![](https://steamuserimages-a.akamaihd.net/ugc/2294083963167034795/7B61C8A5136290D9DDF31A253BD35C88935E64C4/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 
 ---
 ## Comparisons to Civilization 5/6
@@ -2264,7 +2274,7 @@ shuffle your discard pile into a new Character Deck, then continue revealing.
 ---
 # Workshop Link
 
-![]()
+[Tabletop Sim](https://steamcommunity.com/sharedfiles/filedetails/?id=1392822598)
 
 ---
 

@@ -1,3 +1,13 @@
+---
+PlayerCount: 1+
+DurationETA: 60-120 minutes per case
+Summary: Sherlock Holmes Consulting Detective is a cooperative mystery-solving game where players take on the role of Baker Street Irregulars, investigating cases in Victorian London by following leads, gathering clues, and attempting to solve the mystery as efficiently as Sherlock Holmes himself.
+BoardGameType: Co-Op
+tags:
+  - BoardGame
+CoverArt: "![https://boardgamegeek.com/boardgame/2511/sherlock-holmes-consulting-detective-the-thames-mu](https://cf.geekdo-images.com/ptDZ2tJ6dSNiONAx3HH8Tw__imagepage/img/bc_Iq5totH7ydZneqeI7zZbQZmk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3514298.jpg)"
+MyRating: 8
+---
 # Sherlock Holmes Consulting Detective
 
 ## Brief Summary

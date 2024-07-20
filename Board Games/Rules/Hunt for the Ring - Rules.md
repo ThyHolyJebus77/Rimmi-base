@@ -1,6 +1,17 @@
+---
+PlayerCount: 2-5
+DurationETA: 90+ Minutes
+Summary: Hunt for the Ring is a hidden movement game set in the Lord of the Rings universe. One player controls Frodo and his companions trying to reach Rivendell, while the others play as Nazgûl attempting to find the Ring-bearer. The game combines strategic planning, deduction, and resource management in a tense cat-and-mouse chase across Middle-earth.
+BoardGameType: Competitive & Co-Op
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/UeDKPWTSCmNIbSAmRYesXw__imagepage/img/LtN_bys0gO9d5O2yxRA02PiindU=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3720024.jpg)"
+---
 # Hunt for the Ring
 ## Brief Summary
 Hunt for the Ring is a hidden movement game set in the Lord of the Rings universe. One player controls Frodo and his companions trying to reach Rivendell, while the others play as Nazgûl attempting to find the Ring-bearer. The game combines strategic planning, deduction, and resource management in a tense cat-and-mouse chase across Middle-earth.
+
+![](https://cf.geekdo-images.com/UeDKPWTSCmNIbSAmRYesXw__imagepage/img/LtN_bys0gO9d5O2yxRA02PiindU=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3720024.jpg)
 
 ---
 
@@ -77,6 +88,10 @@ Remember, Frodo is trying to stay hidden while the Nazgûl are searching. Good l
 
 ## Additional Information 
 The game can be played as a one-vs-all experience or as a team game with multiple players controlling Frodo's party. Advanced rules include the addition of Gandalf as a playable character and more challenging scenarios for experienced players.
+
+## BGG
+
+<iframe src="https://boardgamegeek.com/boardgame/216070/hunt-for-the-ring" width=720 height=720></iframe>
 
 ---
 

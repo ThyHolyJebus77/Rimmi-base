@@ -1,3 +1,13 @@
+---
+PlayerCount: 1-4
+DurationETA: 60-90 Minutes per mission
+Summary: "Assassin's Creed: Brotherhood of Venice is a cooperative stealth action board game set in the Assassin's Creed universe. Players control assassins completing missions in Renaissance Venice, using stealth, combat, and special abilities to overcome guards and achieve objectives. The game features a campaign mode with evolving storylines and character progression."
+BoardGameType: Co-Op
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/huJQdINp8chuQbXdVD0chw__imagepagezoom/img/OPyAiKD8EryNlTeTV2NbpGUM3X8=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic6753357.png)"
+---
+
 # Assassin's Creed Brotherhood of Venice
 
 ## Brief Summary

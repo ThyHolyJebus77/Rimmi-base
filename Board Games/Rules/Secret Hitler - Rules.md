@@ -1,3 +1,14 @@
+---
+PlayerCount: 5-10
+DurationETA: 45-60 minutes
+Summary: Secret Hitler is a social deduction game set in 1930s Germany. Players are secretly divided into Liberals and Fascists, with one player as Hitler. The game revolves around electing governments, enacting policies, and using special powers, all while trying to deduce others' loyalties. Liberals aim to enact liberal policies or assassinate Hitler, while Fascists try to enact fascist policies or elect Hitler as Chancellor.
+BoardGameType: Competitive & Co-Op
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/rAQ3hIXoH6xDcj41v9iqCg__imagepage/img/QTDaAfkaWhobmpHVlfVtBz30OH0=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5164305.jpg)"
+MyRating: 7
+---
+
 # `=this.file.name`
 
 ## Brief Summary

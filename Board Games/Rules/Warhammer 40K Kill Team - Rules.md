@@ -1,3 +1,13 @@
+---
+PlayerCount: 2+
+DurationETA: 30-60 Minutes
+Summary: "Warhammer 40,000: Kill Team is a skirmish-scale miniature wargame set in the grim darkness of the far future. Players command small teams of elite operatives, engaging in tactical combat across detailed terrain. The game emphasizes strategic positioning, resource management, and careful use of each operative's unique abilities to achieve mission objectives."
+BoardGameType: Competitive
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/91srLG0XDgJ-ccuLcNSQiw__imagepage/img/NWsIG5jpH54VF8YpCmT21Vx1er8=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6398013.jpg)"
+---
+
 # Warhammer 40K: Kill Team
 ## Brief Summary
 Warhammer 40,000: Kill Team is a skirmish-scale miniature wargame set in the grim darkness of the far future. Players command small teams of elite operatives, engaging in tactical combat across detailed terrain. The game emphasizes strategic positioning, resource management, and careful use of each operative's unique abilities to achieve mission objectives.

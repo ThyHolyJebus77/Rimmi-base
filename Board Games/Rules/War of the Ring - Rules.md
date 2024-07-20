@@ -1,3 +1,13 @@
+---
+PlayerCount: 2-4
+DurationETA: 180 Minutes minimum
+Summary: War of the Ring is an epic board game that recreates the struggle for Middle-earth. One player controls the Free Peoples, while the other commands the Shadow armies. The game combines military conquest with a race to either destroy or claim the One Ring.
+BoardGameType: Competitive
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/ImPgGag98W6gpV1KV812aA__imagepage/img/ZHAFxwwPAmpSqOjPb98GZV_x3rA=/fit-in/900x600/filters:no_upscale():strip_icc()/pic1215633.jpg)"
+---
+
 # War of the Ring
 ## Brief Summary
 War of the Ring is an epic board game that recreates the struggle for Middle-earth. One player controls the Free Peoples, while the other commands the Shadow armies. The game combines military conquest with a race to either destroy or claim the One Ring.

@@ -1,3 +1,13 @@
+---
+PlayerCount: 1-5
+DurationETA: 90-180 Minutes
+Summary: "Nemesis: Lockdown is a semi-cooperative survival horror board game set in a secret Mars base. Players must survive against alien intruders while completing personal objectives, managing power systems, and potentially escaping the facility.\r\rNemesis: Lockdown is a standalone expansion that builds upon the rules & mechanics of the original [[Nemesis - Rules]]."
+BoardGameType: Competitive & Co-Op
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/NEbmFFGhKwegIryUArgw6w__imagepage/img/3gXyL1silSSUBcG96MtGhBPx3B8=/fit-in/900x600/filters:no_upscale():strip_icc()/pic7110034.jpg)"
+---
+
 # `=this.file.name`
 
 ## Brief Summary

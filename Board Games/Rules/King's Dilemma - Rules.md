@@ -1,3 +1,13 @@
+---
+PlayerCount: 3-5
+DurationETA: 60 Minutes per game, roughly 15 games total
+Summary: The King's Dilemma is a narrative-driven legacy game where players are members of the King's Council making difficult moral choices that shape the fate of the kingdom. Players must balance the needs of the realm with their own House's agenda.
+BoardGameType: Competitive & Co-Op
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/FJlTdSMkK5hMNtCympJFmg__imagepage/img/0Ylakus7JAET1YmVkQyKoLHjSVs=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5429837.jpg)"
+---
+
 # `=this.file.name`
 
 ## Brief Summary
@@ -17,7 +27,7 @@ The King's Dilemma is a narrative-driven legacy game where players are members o
 ## Key Information
 - **Players:** 3-5 
 - Players compete to gain the most prestige for their House
-- **Play Time:** ~1 hour per game, ~15 games total
+- **Play Time:** 1 hour per game, roughly 15 games total
 - **Year:** 2019
 
 ### Key Mechanics

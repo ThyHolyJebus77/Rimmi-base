@@ -1,3 +1,13 @@
+---
+PlayerCount: 3-5
+DurationETA: 90-120 Minutes
+Summary: Rising Sun is a strategy board game set in feudal Japan where players lead clans vying for honor and control. The game combines area control, alliance formation, and unique combat mechanics. Players negotiate, deploy forces, and engage in strategic battles across seasons to gain victory points and establish dominance.
+BoardGameType: Competitive
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/iwevA6XmiNLHn1QnGUucqw__imagepage/img/W6vxWVStCBL7qs6yW_G0VbC9Jxw=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3880340.jpg)"
+---
+
 # Rising Sun
 ## Brief Summary
 Rising Sun is a strategy board game set in feudal Japan where players lead clans vying for honor and control. The game combines area control, alliance formation, and unique combat mechanics. Players negotiate, deploy forces, and engage in strategic battles across seasons to gain victory points and establish dominance.

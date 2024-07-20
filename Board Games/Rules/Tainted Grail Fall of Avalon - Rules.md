@@ -1,3 +1,13 @@
+---
+PlayerCount: 1+
+DurationETA: 60+ Minutes (often much longer for a full campaign)
+Summary: "Tainted Grail: Fall of Avalon is a dark fantasy board game set in a dying land inspired by Arthurian legends. Players control heroes exploring a dangerous world, managing resources, and making impactful choices through branching storylines. The game features a unique exploration system using menhirs, as well as separate combat and diplomacy decks for encounters."
+BoardGameType: Co-Op
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/aAwBzPzta4joKfFZt05hCw__imagepage/img/VTB2LcmXNC4XPpCOVfkfa4qO0cY=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4385726.jpg)"
+---
+
 # Tainted Grail: Fall of Avalon
 ## Brief Summary
 Tainted Grail: Fall of Avalon is a dark fantasy board game set in a dying land inspired by Arthurian legends. Players control heroes exploring a dangerous world, managing resources, and making impactful choices through branching storylines. The game features a unique exploration system using menhirs, as well as separate combat and diplomacy decks for encounters.

@@ -1,6 +1,17 @@
+---
+PlayerCount: 2-4
+DurationETA: 120+ Minutes
+Summary: Doom (2004) is a board game adaptation of the iconic first-person shooter video game. Players take on the roles of either space marines or the invading forces of Hell in a tactical combat scenario. The game features asymmetric gameplay, with marines exploring a modular board and fighting against waves of monsters controlled by the invader player. These mechanics were improved for [[DOOM (2016) - Rules]].
+BoardGameType: Competitive & Co-Op
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/ii6AlIs7FfXhx-feZHGbrw__imagepage/img/QKvO-DXQV3AEw9gtn0twy9ZQ6Gk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic71199.jpg)"
+---
+
 # Doom (2004)
 ## Brief Summary
 Doom (2004) is a board game adaptation of the iconic first-person shooter video game. Players take on the roles of either space marines or the invading forces of Hell in a tactical combat scenario. The game features asymmetric gameplay, with marines exploring a modular board and fighting against waves of monsters controlled by the invader player.
+These mechanics were improved for [[DOOM (2016) - Rules]].
 
 ![](https://cf.geekdo-images.com/ii6AlIs7FfXhx-feZHGbrw__imagepage/img/QKvO-DXQV3AEw9gtn0twy9ZQ6Gk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic71199.jpg)
 

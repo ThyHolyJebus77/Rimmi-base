@@ -1,3 +1,13 @@
+---
+PlayerCount: 2-5 (1 Invader vs 1-4 Marines)
+DurationETA: 120+ Minutes
+Summary: DOOM (2016) is a board game adaptation of the popular first-person shooter video game. Players take on the roles of either space marines fighting to survive or the invader controlling hordes of demons. The game features tactical combat, resource management, and asymmetric gameplay as marines and demons battle across modular map tiles.
+BoardGameType: Competitive & Co-Op
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/1BL_D-f3tPbGe9wUjzER6A__imagepage/img/JwO1RKGsb9d4Pjs2VU4WPS2B7Tw=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3116318.jpg)"
+---
+
 # DOOM (2016)
 ## Brief Summary
 DOOM (2016) is a board game adaptation of the popular first-person shooter video game. Players take on the roles of either space marines fighting to survive or the invader controlling hordes of demons. The game features tactical combat, resource management, and asymmetric gameplay as marines and demons battle across modular map tiles.

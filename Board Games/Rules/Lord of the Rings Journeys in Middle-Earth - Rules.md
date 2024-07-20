@@ -1,7 +1,19 @@
+---
+PlayerCount: 1-5
+DurationETA: 60+ Minutes
+Summary: "Lord of the Rings: Journeys in Middle-Earth is a cooperative adventure board game set in J.R.R. Tolkien's Middle-earth. Players form a company of heroes, embarking on perilous quests across various campaigns. The game combines tactical decision-making, character development, and storytelling, all managed through a companion app that guides the narrative and handles enemy actions."
+BoardGameType: Co-Op
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/1XA2-niwTBa0HEB7hOz3Dw__imagepage/img/dniEqT1lS-wh6hmCijPi3PQCwWs=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4530974.jpg)"
+---
+
 # Lord of the Rings: Journeys in Middle-Earth
 
 ## Brief Summary
 Lord of the Rings: Journeys in Middle-Earth is a cooperative adventure board game set in J.R.R. Tolkien's Middle-earth. Players form a company of heroes, embarking on perilous quests across various campaigns. The game combines tactical decision-making, character development, and storytelling, all managed through a companion app that guides the narrative and handles enemy actions.
+
+![](https://cf.geekdo-images.com/1XA2-niwTBa0HEB7hOz3Dw__imagepage/img/dniEqT1lS-wh6hmCijPi3PQCwWs=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4530974.jpg)
 
 ---
 
@@ -71,6 +83,10 @@ Remember: The app will guide you through most steps. When in doubt, check the ap
 
 ## Additional Information
 The game features multiple campaigns with varying difficulty levels and replayability. The app handles most of the bookkeeping, allowing players to focus on strategic decisions and immersion in the story. The modular board and app-driven scenarios ensure that each playthrough can offer a unique experience.
+
+## BGG
+
+<iframe src="https://boardgamegeek.com/boardgame/269385/the-lord-of-the-rings-journeys-in-middle-earth" width=720 height=720></iframe>
 
 ---
 # Lord of the Rings: Journeys in Middle-Earth - Rules

@@ -1,3 +1,13 @@
+---
+PlayerCount: 2+
+DurationETA: 60-180 minutes
+Summary: "Warhammer: Age of Sigmar is a tabletop miniature wargame set in a fantasy universe. Players collect, build, and paint miniature armies, then battle against each other using dice and rulebooks. The game features various factions with unique units and abilities, emphasizing strategy, tactics, and luck."
+BoardGameType: Competitive & Co-Op
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/qZtiY-HvqZ8cnm1Oc_GEpQ__imagepagezoom/img/MloYlcl0rJdQJaYvbag_aQ_PPUw=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic6266983.jpg)"
+---
+
 # Warhammer: Age of Sigmar
 ## Brief Summary
 Warhammer: Age of Sigmar is a tabletop miniature wargame set in a fantasy universe. Players collect, build, and paint miniature armies, then battle against each other using dice and rulebooks. The game features various factions with unique units and abilities, emphasizing strategy, tactics, and luck.

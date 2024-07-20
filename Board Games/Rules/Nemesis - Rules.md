@@ -1,3 +1,13 @@
+---
+PlayerCount: 1-5
+DurationETA: 60+ Minutes
+Summary: "Nemesis is a semi-cooperative survival horror board game set in space. Players are crew members on a ship infested with hostile alien intruders. They must complete personal objectives and survive, balancing cooperation and potential betrayal. There exists a sequel: [[Nemesis Lockdown - Rules]]."
+BoardGameType: Competitive & Co-Op
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/4KSmlm59w0GwLIlgDnJDAQ__imagepagezoom/img/aBEs8oI9NNpH-iDDvOu9kWJfbW8=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic8211747.png)"
+---
+
 # `=this.file.name`
 
 ## Brief Summary
@@ -3868,3 +3878,86 @@ After resolving an aftermath exploration token, discard it
 (except for the slimed room token).
 ```
 
+Global
+Place board, 1- & 2-Tiles (with Exploration token), blue Corpse ([H]ybernatorium), 1xCoordinates, & decks, Engines & (Escape) Pods (2/3/4 locked Pods with 1-2/3-4/5p, in numeric order, in A-B-A-B). Seed Intruder-Board (5xEggs, 3xWeakness) & -Bag: Blank, Creeper, Queen, 4xLarvae, [#p+3]xAdults. Filter Help- & Objective cards on #p. Initia-lise Cockpit ('B'), Selfdestruct & Timetrack. Deal 1xHelp, and 2xObjective (1 per type).
+1stPlayer: player with Help card '1'
+
+Player
+In TurnOrder: draw 2x CharacterDraft, choose 1 and reshuffle discard into deck. Take stand (matching Help card number), Character mini (place in [H]), -board, -deck, -weapon (full) and -QuestItems.
+
+Round 1#PlayerPhase: Pass 1stPlayerToken
+clockwise (skip 1st Round). Players draw up to hand limit, take Turns (clockwise) until everyone has passed. 2#EventPhase: {1} Timetrack & Selfdestruct +1, {2} Intruders in Combat attack (priority: fewest cards in hand, then TurnOrder), {3} Intruder Fire damage, {4} Event: tophalf (Intruder movement, if not in Combat) then bottomhalf, {5} & finally bag development.
+Turn
+Take {a} 2 Actions, or {b} 0-1 Actions & pass (flip Help & may discard any card(s)). Actions from Card (topright icon = usable in/out-of combat), Room or Item. Discard (non-[Con]tamination) card(s) to pay cost (gained [Con] go into discard).
+
+
+Victory
+Game ends if {a} all players out of game, {b} 9th Fire/Malfunction placed or {c} Timetrack or Selfdestruct reaches 0.
+Scoring: {1} Check Engines & Coordinates. Characters in [H] die if Ship explodes/doesn't-reach-Earth. {2} Players scan all [Con] & if Infected: shuffle all cards, draw 4... [Con] drawn = death! {3} Living Characters with completed Objectives are winners.
+TIMING
+
+Round 8: unlock [H]. Player in [H]: can't change-Coordinates/initiate-Selfdestruct. Firsts: Encounter (discard 1 Objective), PlayerDeath (unlocks Pods).
+PLAYER MOVEMENT
+
+Unless player or Intruder in target room, NoiseRoll: place Noise in matching Corridor (if 2nd: resolve Encounter). Escape: resolve [Att]ack per Intruder, then NormalMovement.
+INTRUDERS
+
+Encounter: Draw token from Bag, place Intruder in Room ((Surprise)[Att] if {tokenNr > cards in hand}). Token goes into supply unless Blank: resolve as Danger & return to bag (if last add Adult). IntruderAttack: Draw [Att] & resolve if Intruder's symbol shown (if Larvae, instead put mini on playerboard & gain [Con]). Wounds: tracked with red cube on playerboard. 3rd = remove cube & draw SeriousWound (surplus, loops back). Player dies if 3 any SeriousWounds & gains any Wound. InCombat = in Room with a player.
+MISC
+
+InfectionProcedure: When scanning [Con], if any card says "INFECTED" you gain 1 Larvae (if second Larvae, you die). Exploration: {a} Fire: suffer LightWound if ending turn here. {b} Malfuction: disables Room action & Computer. {c} Door: closes in passed Corridor. HeavyItems (hand symbol) go in HandSlot. Max 1 Fire and/or Malfunction per Room. Breeder/Queen: in combat, draw 2 [Att] and add for health (retreats if 1 Arrow)
+v2.0
+AFTERMATH EXPANSION
+
+Modules: new [C]aracters & [R]oom tiles, [T]urrets which can help/hurt & [Tr]aits with passive (dis)advantages for Character.
+Global
+During standard setup: [R] Include new '2' Rooms. [T] Add 3x Turret Exploration tokens
+with Turrets' Status tokens. Player
+[C] During CharacterDraft: after choosing a
+card, may choose an Aftermath Character instead (matching color).
+[Tr] Take matching Trait.
+
+Round
+[T] 2#EventPhase - Intruder Fire Damage step: {1} See Turret(s)' Status: deal 1 Injury or Lightwound to Character(s) and/or Intruder(s) in Room. {2} Intruders destroy Turret in their Room (happens simultaneous with Turret's shooting and may die).
+
+TURRET
+
+Can't be placed in Nest or 'Room covered with Slime'. Destroy with Demolition action. Exploration token: place Turret in Room & flip top Status: {a} INACTIVE: can't be destroyed, {b}{c} TARGET ALL/INTRUDERS: Deals Lightwound or Injury to Characters and/or Intruders entering/spawning.
+
+VARIANTS
+
+New game modes: {a} 'Epilogue' (short game after a standard game), and {b} 'Research Mission' (immediately includes Epilogue's mechanics into a standard game). Each come with their own setup and/or components.
+
+
+
+
+
+MORPHS EXPANSION
+CARNO
+
+New Enemy type with own mechanics.
+
+Global
+During Standard Setup: Seed CarnomorphBoard (8xEggs, 3xAdaption with Shambler, Fleshbeast & Butcher on them) & -Bag: Blank, 2xBlue[Meta]gorger, {#p+2}xRed-Meta. Replace Attack-, Event & Help cards.
+
+CARNOMORPH
+
+Death: if Fleshbeast, also add Shambler. If Butcher, omit IntruderCorpse & add 2x Shambler. Adaptation: reveal when new enemy type first appears. Negated by Analyzing matching object (if revealed). Feeding: (IntruderAttack step) a Carnomorph not in Combat, removes 1 present Heavy-Object/Meta to remove all Injuries & Evolve.
+
+MUTATIONS
+
+Place gained [Mut]ation facedown next to playerboard until 1st use. Use: scan [Con] in Hand & resolve matching effect. If not Infected, discard [Con] to supply & draw new one. Then (new) [Con] goes into own discard. Mutation[Marker]: if no [Mut] yet, draw 2 [Mut] & keep 1 instead. Else, put Marker on playerboard & if 4th: you die (put a Shambler & Character-Corpse in Room).
+
+MISC
+
+Larvae: gain Marker instead. Meta: always add red Meta to bag. MetaAttack: don't draw Attack: gain [Con] & 1 LightWound, and if no [Mut], draw 2 (keep 1). Add Shambler token to bag. Blank: if drawn & last token, readd with Meta to bag. BagDevelopment: see new Help card. Butcher: if dead, remove
+
+from game.
+
+
+---
+# Workshop
+
+[Tabletop Simulator](https://steamcommunity.com/sharedfiles/filedetails/?id=2905026878&searchtext=nemesis)
+
+---

@@ -1,3 +1,13 @@
+---
+PlayerCount: 
+DurationETA: 
+Summary: 
+BoardGameType: 
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/U6scsOGrPtVym4nCLaYjyw__imagepagezoom/img/0WHWveXOXm3fXgofhE4QCM60WbI=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic7387735.png)"
+---
+
 # Star Wars: The Deck Building Card Game
 
 ## Brief Summary
@@ -59,5 +69,6 @@
 ---
 # Workshop Link
 
-![]()
+[Tabletop Simulator (1v1 Version)](https://steamcommunity.com/sharedfiles/filedetails/?id=2941930995)
 
+[Tabletop Simulator (2v2 Version)](https://steamcommunity.com/sharedfiles/filedetails/?id=2958246203)

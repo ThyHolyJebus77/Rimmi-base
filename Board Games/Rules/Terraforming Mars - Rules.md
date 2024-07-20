@@ -1,3 +1,13 @@
+---
+PlayerCount: 1-5
+DurationETA: 120 Minutes
+Summary: Terraforming Mars is a strategic board game where players compete as corporations to transform Mars into a habitable planet. Players use resource management, card play, and tile placement to raise temperature, oxygen levels, and create oceans. The game ends when Mars is fully terraformed, with the player who contributed most to the terraforming process and developed the best infrastructure winning.
+BoardGameType: Competitive
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/wg9oOLcsKvDesSUdZQ4rxw__imagepage/img/FS1RE8Ue6nk1pNbPI3l-OSapQGc=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3536616.jpg)"
+---
+
 # Terraforming Mars
 ## Brief Summary
 Terraforming Mars is a strategic board game where players compete as corporations to transform Mars into a habitable planet. Players use resource management, card play, and tile placement to raise temperature, oxygen levels, and create oceans. The game ends when Mars is fully terraformed, with the player who contributed most to the terraforming process and developed the best infrastructure winning.
@@ -971,13 +981,135 @@ This variant allows players to affect which cards other players
 get access to, and increases your ability to pursue a certain
 strategy, or predict which parameter will rise first.
 ```
-## GAME VARIANTS GAME VARIANTS
+
+1-4	150	3.7
+mars
+Global
+Place board, 9x Ocean tiles, and white cubes on °C & O² tracks. Remove CorporateEra Project- and Corporation cards.
+1stPlayerToken: random
+
+Player
+Take mat. Place cubes: 1x on TR 20, 6x on Production 1. Draw 10 Project cards (pay 3€ per kept card), 2x Corporation cards (keep 1).
+Finally, in TurnOrder: Reveil & resolve Corporation, then take starting resources.
+
+Round
+1#1stPlayerToken: pass clockwise. 2#Draw 4x Projects (all players), pay 3€ per kept card, 3#Turns: Players take Turn in clockwise order, until all have passed 4#Production: convert unspent Energy to heat, receive Production (€ = TR + Production), and reset activated Blue Project(s).
+First round: skip 1#, 2#.
+Turn
+Perform 1 or 2 action(s):
+{a} Play Project card: obey requirements, pay cost. {b} Activate Blue Project (without cube): place cube. {c} Standard Project (see board). {d}{e} Convert 8 Plants/Heat for 1 Greenery / +1°C. {f}{g} Milestone/Award: pay cost, place cube on Milestone/Award (max 3 each total per game) {h} Pass.
 
 
+Victory
+Game ends when all 3 GlobalParameters are complete, after Production. TurnOrder: may convert Plants into Greeneries.
+Score: current TR + Milestone(s) + Award(s) + {1TR per your Greenery} + per City {1TR per any adjacent Greenery} + TR from Cards.
+VP
+
+RESOURCES
+
+Bronze/Silver/Gold = 1/5/10. Steel/ Titanium can substitute 2€/3€ when playing Projects with Building/Space tag (no change).
+PROJECTS
+
+Red Cards: placed facedown after use (tags don't count for rest of game). Resource symbols: Brown background is Production, and Red border means target any player to take cost/benefit (optional if not Production). Blue cards may have passive benefit. Microbes/Animals are collected on cards themselves via resource cubes.
+
+TILE PLACEMENT
+
+After placing: {1} get 2€ per adjacent Ocean, and any site bonus. {2} Place cube on owned tiles (with square). Greenery: must be placed next to owned tile (if possible). City: cannot be placed next to City.
+
+MISC
+
+Raising GlobalParameter nets +1 TR.
+°C and O² Bonuses are gained immediately upon hitting stage. Discard cards facedown.
+
+VARIANTS
+CorporateEra: Add CorporateEra Project / Corporation cards. Starting Production is 0. Draft: {1} Setup: Place white cube on 1. On even/odd rounds, draft goes clockwise/ anticlockwise. {2} For Round step 2#Draw choose 1 & pass remaining cards. Repeat
+until you have 4, then decide which to buy.
+
+
+
+
+
+v2.1
+Prelude, Hellas & ELYSIUM
+EXPANSION
+[P]relude kickstarts your engine whilst [H&E] Hellas & Elysium offers 2 new maps.
+Global
+[H&E] Instead of the standard board, you can play on either Hellas or Elysium.
+Replacement tile: If playing with standard map, place over Terraformer milestone.
+Player
+[P] During standard setup: when drawing Project- & Corporation cards, also draw 4x Prelude cards (keep 2).
+
+Victory
+[H&E] These maps come with their own Milestones and Awards.
+
+[H&E] TILE SITES
+
+Hellas#South-Pole: pay 6€ and place City, and 1 Ocean tile (in valid space). Elysium#Volcanic-sites: 4 options for LavaFlows and/or LaveTubeSettlement (other tiles can be played here). If no valid space left, cannot place tile.
+Both#If-no-reserved-site: (e.g. Noctis, LavaFlows) obey normal placement rules.
+
+[P] TAGS
+
+? = Wild tag
+
+
+VenusNext,
+Colonies
+
+
+EXPANSION [V]enusNext adds GlobalParameter, Milestone & Reward, and more. [C]olonies adds a new mechanic.
+Global
+[V] Place Venus board, and white cube on GlobalParameter track. Add new Milestone-and Reward tiles.
+[C] Draw #p+2 Colonies and set starting white cubes (2). Place Colonies board, on it: per player 1 Ship with player cube.
+
+Round
+5#SolarPhase (after Production): {1} Check game-end {2}[V] player#1 increases 1 non-maxed-out GlobalParameters by 1 (they don't get any bonus, but any passives still trigger). {3}[C] All Colony white cubes +1, and reset Ships.
+Turn
+[C] BuildColony: place cube on leftmost available space (max 3 Colonies total, max 1 per player) slide white cube if needed.
+[C] Trade: Move Ship to Colony without a Ship, gain resources (see white cube), and all players with Colony gain ColonyBonus. Slide white cube to leftmost available space.
+
+MISC
+
+[V] Milestone/Award: still max 3 per game, and Venus GlobalParameter doesn't count for game-end trigger.
+[C] Titan, Enceladus, Miranda don't get a white cube until someone plays a card that can store matching resource.
+
+
+
+
+
+
+Terraforming Mars -  v2.1
+TURMOIL EXPANSION
+
+Introduces area-control minigame.
+
+Global
+GlobalEvent: {1} Place board and draw 2 Global[Event] cards: place them in Coming and Distant. {2} Check topleft Affiliation for both cards: place Neutral Delegates, then set Dominating-Party / PartyLeader(s).
+
+TerraformingCommity: {3} Place board, 1x Neutral Delegate as Chairman, & rest in Neutral Reserve. {4} Place Green Policy tile. {5} Per player: add 6x player cubes in Delegate Reserve, and 1x in Lobby.
+
+Round
+5#SolarPhase (after Production): {1} Check game-end {2}{3} See VenusNext / Colonies (if applicable) {4} TurmoilUpkeep: see section.
+Turn
+Lobby: Place 1 Delegate from Lobby or (pay 5€) from Reserve, into any Party.
+
+
+TURMOIL UPKEEP
+
+{1} All players lose 1TR. {2} Resolve Current Event. {3} Leader from Dominating Party becomes Chairman, and previous Chairman & remaining Delegates from Dominating Party go to respective Reserves. {4} Trigger Dominating Party's Bonus (all players).
+{5} White cube shifts to new Dominating Party (tie = clockwise order from previous Dominating Party). {6} All players: if Lobby doesn't have cube, add 1 from Reserve.
+{7} Advance Event cards, draw new card for Distant, and add Neutral Delegates to Parties according to top-left Affiliation Distant Event & middle-right Affiliation Current Event.
+DELEGATES
+
+When Delegate is placed: {1} If Party has more Delegates than Dominating Party, they become Dominating Party (move white cube accordingly). {2} If within a Party, the newly placed Delegate's color has more Delegates than any other (include Leader), they become PartyLeader (swap 1 Delegate within Party with Leader Delegate).
+
+INFLUENCE
+
+Player's Influence (max 3) calculation:
+{a} +1 if Chairman, {b} +1 if Party Leader of Dominant Party and {c} +1 if (non-Leader) Delegates in Dominant Party.
 
 
 ---
 # Workshop Link
 
-![]()
+[Tabletop Simulator](https://steamcommunity.com/sharedfiles/filedetails/?id=2104525488)
 

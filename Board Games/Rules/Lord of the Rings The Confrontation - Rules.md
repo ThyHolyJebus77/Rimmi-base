@@ -1,7 +1,18 @@
+---
+PlayerCount: "2"
+DurationETA: 30+ Minutes
+Summary: "Lord of the Rings: The Confrontation is a two-player strategy game set in Middle-earth. Players control either the Fellowship or Sauron's forces, manoeuvring hidden characters across a board representing key locations from the novels. The game combines elements of bluffing, tactical movement, and combat, with the Fellowship trying to get Frodo to Mordor while Sauron's forces attempt to stop them."
+BoardGameType: Competitive
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/uL9pJAwO9gyJZZjmuWYdyQ__imagepage/img/kPNiV0hCeTfrrQezH7OCeWbBvvE=/fit-in/900x600/filters:no_upscale():strip_icc()/pic1680704.jpg)"
+---
 # Lord of the Rings: The Confrontation
 
 ## Brief Summary
 Lord of the Rings: The Confrontation is a two-player strategy game set in Middle-earth. Players control either the Fellowship or Sauron's forces, manoeuvring hidden characters across a board representing key locations from the novels. The game combines elements of bluffing, tactical movement, and combat, with the Fellowship trying to get Frodo to Mordor while Sauron's forces attempt to stop them.
+
+![](https://cf.geekdo-images.com/uL9pJAwO9gyJZZjmuWYdyQ__imagepage/img/kPNiV0hCeTfrrQezH7OCeWbBvvE=/fit-in/900x600/filters:no_upscale():strip_icc()/pic1680704.jpg)
 
 ---
 
@@ -71,6 +82,10 @@ Remember to have fun and may the best Middle-earth faction win!
 
 ## Additional Information
 The game includes a variant mode with slightly different character abilities and victory conditions. There's also an optional draft mode for character selection and special cards that can be added for more variety.
+
+## BGG
+
+<iframe src="https://boardgamegeek.com/boardgame/18833/lord-of-the-rings-the-confrontation" width=720 height=720></iframe>
 
 ---
 

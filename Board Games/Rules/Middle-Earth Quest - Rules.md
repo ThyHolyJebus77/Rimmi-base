@@ -1,8 +1,19 @@
+---
+PlayerCount: 2-4
+DurationETA: 180+ Minutes
+Summary: Middle-Earth Quest is a strategic board game set in J.R.R. Tolkien's Middle-Earth, where one player controls the forces of Sauron while others play as heroes. Players navigate the map, complete quests, and engage in combat, with the heroes trying to thwart Sauron's plans. The game culminates in a final confrontation that determines the fate of Middle-Earth.
+BoardGameType: Competitive & Co-Op
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/QManhbcHysi-waXrqYWvQQ__imagepage/img/mEktEcgskov5Bd1nMaVCt3PUKac=/fit-in/900x600/filters:no_upscale():strip_icc()/pic717059.jpg)"
+---
+
 # Middle-Earth Quest
 
 ## Brief Summary
 Middle-Earth Quest is a strategic board game set in J.R.R. Tolkien's Middle-Earth, where one player controls the forces of Sauron while others play as heroes. Players navigate the map, complete quests, and engage in combat, with the heroes trying to thwart Sauron's plans. The game culminates in a final confrontation that determines the fate of Middle-Earth.
 
+![](https://cf.geekdo-images.com/QManhbcHysi-waXrqYWvQQ__imagepage/img/mEktEcgskov5Bd1nMaVCt3PUKac=/fit-in/900x600/filters:no_upscale():strip_icc()/pic717059.jpg)
 ---
 
 ## Comparisons to Civilization 5/6
@@ -66,6 +77,11 @@ Remember, Sauron tries to spread evil influence, while the heroes work together 
 
 ## Additional Information
 The game features a Story Track that represents the progress of good and evil forces. The side that reaches the end first gains an advantage in the final confrontation. The game's narrative can change based on event cards and completed quests, providing high replayability.
+
+## BGG
+
+<iframe src="https://boardgamegeek.com/boardgame/31563/middle-earth-quest" width=720 height=720></iframe>
+
 
 ---
 # Middle-Earth Quest - Rules

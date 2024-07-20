@@ -1,3 +1,14 @@
+---
+PlayerCount: 2-5
+DurationETA: 30-60 minutes
+Summary: "The Lord of the Rings: The Fellowship of the Ring Deck-Building Game is a cooperative card game where players take on the roles of heroes from Middle-earth. Players work together to build powerful decks, defeat enemies, and overcome challenges while trying to destroy the One Ring before it corrupts them."
+BoardGameType: Competitive
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/JvLXlofOkd-blFYjmOqyig__imagepage/img/7Fa7ClBxQ7Kcihzc4kft5Z_Gxo8=/fit-in/900x600/filters:no_upscale():strip_icc()/pic1539583.png)"
+MyRating: 6
+---
+
 # `=this.file.name`
 
 ## Brief Summary

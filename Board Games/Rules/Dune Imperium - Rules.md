@@ -1,3 +1,13 @@
+---
+PlayerCount: 1-4
+DurationETA: 60+ Minutes
+Summary: "Dune: Imperium is a strategy board game that combines deck-building with worker placement set in the Dune universe. Players compete to gain influence with various factions, acquire resources, and engage in conflicts to become the dominant house on Arrakis. The game blends political intrigue, resource management, and combat in a race to reach 10 victory points."
+BoardGameType: Competitive
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/PhjygpWSo-0labGrPBMyyg__imagepage/img/BjM3LyahJ4IQ2ov5MkzkHatbmUc=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5666597.jpg)"
+---
+
 # Dune: Imperium
 
 ## Brief Summary
@@ -2146,6 +2156,87 @@ Imperium row isn’t considered to be in play.
 Trashing a card with Usurp does trigger effects like Replacement
 Eyes and cards with unload (from Rise of Ix).
 ```
+
+
+Global
+Place board, Mentat, 4x AllianceTokens and Intrigue- & Imperium deck. Seed display: 3x Reserve decks (ArrakisLiaison, The-SpiceMustFlow, FoldSpace) & Imperium cards (5). Create Conflict deck (4x'III', 5x'II', 1x'I').
+1stPlayerToken: random
+Player
+Take Leader, 10x Starting cards & 1 Water. Place 1 Agent near Board, 1 Disc on VP track (2-3/4p= 0/1VP) & 3 Troops in Garrison. Initialize CombatMarker & 4x FactionTracks.
+
+Round
+{1} Reveal Conflict & all players draw 5. {2} Player takes Turn, play proceeds clockwise (repeat until all have passed). {3} Combat. {4} +1 Spice on MakerSpots without Agent. {5} Check for game-end, otherwise: return Mentat & Agents, and pass 1stPlayerToken clockwise.
+Turn
+Choose 1: {a} Agent: Play 1 card in front of you & place 1 Agent at action with cards matching AgentIcon. Pay any costs, then gain spot- and card's AgentBox benefits. Cards with arrow: may pay cost for benefit.
+{b} Reveal unplayed cards & gain RevealBox benefits. If Troops in ConflictArea: set Strength (swords on cards + 2x{#Troops in ConflictArea}). Discard all cards & pass.
+
+Victory
+Game ends when at the end of a Round, any player has 10+ VP or Conflict deck is empty.
+Scoring: May resolve 'Endgame' Intrigue cards.
+
+INFLUENCE
+Move cube 1 up, when taking Faction action. Thresholds: {a} '2' = 1VP. {b} '4' = gain bonus, & if first player gain AllianceToken (1VP for holder). {c} Passing player holding AllianceToken = steal token and VP.
+VP lost if you drop below '2' / lose AllianceToken (either from being passed, or by dropping below '4').
+
+TROOPS & COMBAT
+Gain: put Troop in Garrison (board). If action has 'crossed-swords' icon, may directly deploy up to {#gainedTroops+2}. Deploy: move Troop from Garrison to ConflictArea.
+
+Combat: {1} Starting with 1stPlayer (proceed clockwise), all with 1+ Troops in ConflictArea, may play any 'Combat' Intrigue card(s) or pass (repeat until all consecutively pass). {2} Players with 1+ Strength, gain Strength reward (3rd reward only if 4p). Tied players gain lower-reward. {3} All Troops in Conflict-Area go to player's supply (not Garrison!).
+MISC
+Intrigue cards dictate timing. New cards go to discard & may have Acquire effect (topright). ControlMarker: if any player takes action here, controlling player gains shown bonus.
+
+VARIANTS
+Solo/2p: automa player is introduced.
+
+
+
+RISE OF IX EXPANSION
+
+
+VARIANTS
+EpicGameMode: game-end trigger = 12VP.
+Setup changes: {1} Conflict deck (5x'III', 5x'II'),
+
+
+
+Adds board overlay & purchasable abilities
+
+Global
+Place Choam overlay, and Ix board (Seed with 3 equal stacks of Tech tile, flip top tiles faceup). Include new cards (Leader, Imperium, Conflict, and Intrique).
+Player
+Add 2 Dreadnaughts to supply. Place Disc on bottom of ShippingTrack.
+
+TECH
+Acquire: (topleft) pay cost, apply discounts, & gain any immediate effect. Then put it in front of you. Negotiation: put Troop from supply onto Ix board (during Acquire, may gain -1 discount per returned Troop).
+Flip used Tech back up at start of Round.
+
+FREIGHT
+Advance: move Disc 1 space up on track. Recall: resolve effects (in any order) of current row and any/all rows below it.
+
+DREADNAUGHT
+Gain: place in Garrison. Combat: {1} has 3 strength. {2} If won with Dreadnaught, may send 1 to ControlMarker spot even if other player's ControlMarker present: you gain any triggered ControlMarker benefits next Round (return to Garrison at end of next Combat). {3} Return (other) deployed Dreadnaughts to Garrison (not Supply).
+
+MISC
+'Unit' = Troops & Dreadnaughts. Discard or Trash (icons): for effect. Unload: triggers RevealBox effect when Discarded/Trashed. Infiltration (half-Agent-symbol next to specific Location symbol): Agents from other players do not block your Agent.
+
+and {2} players swap 1x 'Dune, the Desert Planet' for 'Control the Spice', draw 1 Intrigue card & Garrison starts with 5x Troops.
+IMMORTALITY EXPANSION
+Adds tech tree & playing 2 cards on turn.
+
+Global
+Place ResearchStation overlay, and (Bene) Tleilax board & -deck (Seed Track with 2x Spice & Row with 2x cards + 'Reclaimed Forc-es'). Include new Imperium- & Intrigue cards.
+Player
+Take FamilyAtomics token. Swap 2x'Dune, the Desert Planet' with 2x 'Experimentation'.
+
+TLEILAXU
+Track: advance when gaining Scarab icon. Row: spend Specimen(s) to Acquire card (or 'Reclaimed Forces' effect). Specimen: place Troop from supply onto board (return to supply when spent or by choice at any time).
+
+RESEARCH
+Advance: move Disc 1 to adjacent right space & gain benefit (may also unlock column benefits). GeneticMarker: triggers some abilities' extra effect. {1} 1st Marker = may send Tleilaxu Row Acquires to top of deck, {2} 2nd Marker = Research icons no longer moves Disc but allows drawing Card instead.
+
+MISC
+Graft (AgentTurn): must play 2nd card (which may have "When Grafted" effects). Gain AgentIcons from both cards. FamilyAtomics: spend to refresh Imperium row. EpicGameMode (RiseOfIx): 'Control the
+Spice' starts in Discard (doesn't replace card).
 
 
 ---

@@ -1,3 +1,13 @@
+---
+PlayerCount: 1-4
+DurationETA: 60+ Minutes
+Summary: "The Lord of the Rings: The Card Game is a cooperative card game set in J.R.R. Tolkien's Middle-earth. Players form a fellowship of heroes to complete quests, battle enemies, and explore locations. The game features deck-building elements and scenario-based gameplay, with players working together to overcome challenges from an AI-controlled encounter deck."
+BoardGameType: Co-Op
+tags:
+  - BoardGame
+CoverArt: "![]()"
+---
+
 # Lord of the Rings The Card Game
 ## Brief Summary
 The Lord of the Rings: The Card Game is a cooperative card game set in J.R.R. Tolkien's Middle-earth. Players form a fellowship of heroes to complete quests, battle enemies, and explore locations. The game features deck-building elements and scenario-based gameplay, with players working together to overcome challenges from an AI-controlled encounter deck.

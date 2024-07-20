@@ -1,3 +1,13 @@
+---
+PlayerCount: 2+
+DurationETA: 60+ Minutes
+Summary: "Star Wars: The Card Game is a two-player competitive card game set in the Star Wars universe. Players take on the roles of the Light Side and Dark Side, battling for control of objectives using characters, vehicles, and events from the iconic franchise. The game features deck-building, resource management, and tactical combat as players strive to either destroy their opponent's objectives or advance the Death Star dial to victory."
+BoardGameType: Competitive
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/9CpLES0gHMKgizZReKy-lA__imagepagezoom/img/W6xbdsXhoEPZP8h8Z9Yr6T2P3hY=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic1474141.jpg)"
+---
+
 # Star Wars: The Card Game
 
 ## Brief Summary

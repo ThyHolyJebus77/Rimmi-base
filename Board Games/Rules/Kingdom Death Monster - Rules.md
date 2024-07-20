@@ -1,9 +1,19 @@
+---
+PlayerCount: 1+
+DurationETA: 
+Summary: 
+BoardGameType: Co-Op
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/LenzJBOHboAGU0cUIqAZPQ__imagepage/img/1dWKP2ZffsqsveQk8vq8aV33XUs=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2931007.jpg)"
+---
+
 # Kingdom Death Monster
 
 ## Brief Summary
 [2-4 sentences describing the core mechanics and theme of the game]
 
-![]()
+![](https://cf.geekdo-images.com/LenzJBOHboAGU0cUIqAZPQ__imagepage/img/1dWKP2ZffsqsveQk8vq8aV33XUs=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2931007.jpg)
 
 ---
 ## Comparisons to Civilization 5/6
@@ -49,7 +59,7 @@
 [Any additional information that would be useful to know]
 
 ## Board Game Geek
-<iframe src="https://boardgamegeek.com/"width=720 height=720></iframe>
+<iframe src="https://boardgamegeek.com/boardgame/55690/kingdom-death-monster"width=720 height=720></iframe>
 
 ---
 # Kingdom Death Monster - Rules

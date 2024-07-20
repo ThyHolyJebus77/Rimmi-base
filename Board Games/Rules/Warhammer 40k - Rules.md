@@ -1,3 +1,13 @@
+---
+PlayerCount: 2+
+DurationETA: 120+ Minutes
+Summary: Warhammer 40,000 (10th Edition) is a tabletop wargame set in a dystopian science fiction universe. Players command armies of miniature figures, engaging in tactical combat on a modeled battlefield. The game combines strategic positioning, dice-based combat resolution, and army customization. It features a rich lore and diverse factions, each with unique units and abilities.
+BoardGameType: Competitive & Co-Op
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/63lustjMGWXv07BgchaxRA__imagepage/img/nOhJ96J8BS5lRbdpvHOaLsRkra4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic7766326.png)"
+---
+
 # Warhammer 40k (10th Edition)
 ## Brief Summary
 Warhammer 40,000 (10th Edition) is a tabletop wargame set in a dystopian science fiction universe. Players command armies of miniature figures, engaging in tactical combat on a modeled battlefield. The game combines strategic positioning, dice-based combat resolution, and army customization. It features a rich lore and diverse factions, each with unique units and abilities.

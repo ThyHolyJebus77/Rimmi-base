@@ -1,3 +1,13 @@
+---
+PlayerCount: 
+DurationETA: 
+Summary: Pax Renaissance is a board game where you play as bankers in Europe, 1460-1530. As a Renaissance banker, you will finance kings or republics, sponsor voyages of discovery, join secret cabals, or unleash jihads and inquisitions. Your choices determine if Europe is elevated into the bright modern era or remains festering in dark feudalism. Become the most influential banker and pull the strings that decide Europe's future.
+BoardGameType: 
+tags:
+  - BoardGame
+CoverArt: "![]()"
+---
+
 # `=this.file.name`
 
 ## Brief Summary

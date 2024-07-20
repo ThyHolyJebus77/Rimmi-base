@@ -1,7 +1,20 @@
+---
+PlayerCount: 2-4
+DurationETA: 60+ Minutes
+Summary: "Jaws is a board game based on the iconic 1975 film. Players take on the roles of the shark and the human characters, recreating the tension and hunt from the movie. The game is divided into two acts: the shark secretly terrorizing Amity Island, and the final showdown on the Orca."
+BoardGameType: Competitive & Co-Op
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/UDv2zsY1rdWVOXyUl8faYg__imagepage/img/WEDCzMr6pOoL_k-pGKyhGHm_Fmo=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4581181.jpg)"
+---
+
 # Jaws
 
 ## Brief Summary
-Jaws is a board game based on the iconic 1975 film. Players take on the roles of the shark and the human characters, recreating the tension and hunt from the movie. The game is divided into two acts: the shark secretly terrorizing Amity Island, and the final showdown on the Orca.
+Jaws is a board game based on the iconic 1975 film. Players take on the roles of the shark and the human characters, recreating the tension and hunt 
+from the movie. The game is divided into two acts: the shark secretly terrorizing Amity Island, and the final showdown on the Orca.
+
+![](https://cf.geekdo-images.com/UDv2zsY1rdWVOXyUl8faYg__imagepage/img/WEDCzMr6pOoL_k-pGKyhGHm_Fmo=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4581181.jpg)
 
 ---
 
@@ -75,6 +88,10 @@ Remember: The shark's movements are secret in Act 1. Humans must work together t
 
 ## Additional Information
 The two-act structure provides variety in gameplay, with Act 1 focusing on hidden movement and deduction, while Act 2 is a more direct confrontation.
+
+## BGG
+
+<iframe src="https://boardgamegeek.com/boardgame/272738/jaws" width=720 height=720></iframe>
 
 ---
 # Jaws - Rules

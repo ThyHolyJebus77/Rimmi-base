@@ -1,3 +1,13 @@
+---
+PlayerCount: 2-4
+DurationETA: 60+ Minutes
+Summary: "Batman: Gotham City Chronicles is a miniature-based board game set in the Batman universe. Players control either heroes or villains, engaging in tactical combat and mission-based scenarios. The game features an innovative energy cube system for action management and a unique tile-based activation mechanic for the villain player."
+BoardGameType: Competitive & Co-Op
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/YGNk9UF-QqLWT58aWiRV7w__imagepage/img/snfrD1FHiVYVH6I1ewkusciLUUY=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3893551.png)"
+---
+
 # Batman: Gotham City Chronicles
 ## Brief Summary
 Batman: Gotham City Chronicles is a miniature-based board game set in the Batman universe. Players control either heroes or villains, engaging in tactical combat and mission-based scenarios. The game features an innovative energy cube system for action management and a unique tile-based activation mechanic for the villain player.

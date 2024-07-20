@@ -1,3 +1,13 @@
+---
+PlayerCount: 1-4
+DurationETA: 120+ Minutes
+Summary: Fallout is a post-apocalyptic adventure board game based on the popular video game series. Players explore a wasteland, complete quests, fight enemies, and manage resources while trying to gain influence with competing factions. The game features a modular hex-based map, dice-based combat, and branching narrative encounters.
+BoardGameType: Competitive & Co-Op
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/9gjrMWDqLCBb-G0AYbKuSQ__imagepagezoom/img/6tSMzMht3zxVLIECs4zcFLnUo1w=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic3728149.jpg)"
+---
+
 # `=this.file.name`
 
 ## Brief Summary
@@ -1396,5 +1406,5 @@ chooses to resolve either of the effects listed above.
 ---
 # Workshop Link
 
-![]()
+[Tabletop Sim (Scripted)](https://steamcommunity.com/sharedfiles/filedetails/?id=1597714163)
 

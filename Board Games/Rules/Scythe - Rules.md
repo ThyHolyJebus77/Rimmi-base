@@ -1,7 +1,17 @@
+---
+PlayerCount: 1-7
+DurationETA: 90-115 minutes
+Summary: Scythe is a competitive strategy game set in an alternate-history 1920s Eastern Europe. Players control unique factions with asymmetric abilities, managing resources and workers to build an economic engine. The game combines area control, resource management, and combat as players expand their territories and complete objectives. Victory is achieved through efficient actions and strategic positioning rather than direct conflict.
+BoardGameType: Competitive
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/7k_nOxpO9OGIjhLq2BUZdA__imagepage/img/zoz-t_z9nqqxL7OwQenbqp9PRl8=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3163924.jpg)"
+MyRating: 7
+---
 # Scythe
 
 ## Brief Summary
-Scythe is a competitive strategy game set in an alternate-history 1920s Eastern Europe. Players control unique factions with asymmetric abilities, managing resources and workers to build an economic engine. The game combines area control, resource management, and combat as players expand their territories and complete objectives. Victory is achieved through efficient actions and strategic positioning rather than direct conflict.
+`INPUT[textArea:Summary]`
 
 ![](https://cf.geekdo-images.com/7k_nOxpO9OGIjhLq2BUZdA__imagepage/img/zoz-t_z9nqqxL7OwQenbqp9PRl8=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3163924.jpg)
 
@@ -16,9 +26,9 @@ Scythe is a competitive strategy game set in an alternate-history 1920s Eastern 
 - Technology upgrades exist in both, but are more streamlined in Scythe
 
 ## Key Information
-- **Players:** 1-5 (up to 7 with expansions)
-- Players compete against each other
-- **Play Time:** 90-115 minutes
+- **Players:** `INPUT[text:PlayerCount]`
+- `INPUT[text:BoardGameType]`
+- **Play Time:** `INPUT[text:DurationETA]`
 - **Year:** 2016
 
 ### Key Mechanics
@@ -65,9 +75,10 @@ Scythe is a competitive strategy game set in an alternate-history 1920s Eastern 
    - Both players secretly choose power on their dials and play combat cards.
    - Highest total wins; loser retreats.
 
-6. Encounters:
+1. Encounters:
    - If your character enters a territory with an encounter token, draw a card.
    - Choose one of three options for a benefit or penalty.
+   - Once the encounter is over, discard the encounter card. It is not used for the remainder of the game.
 
 7. Completing objectives:
    - Reveal completed objective cards to place stars on the triumph track.
@@ -77,13 +88,65 @@ Scythe is a competitive strategy game set in an alternate-history 1920s Eastern 
    - Score based on stars placed, territories controlled, resources, and popularity.
    - Highest total coins wins!
 
-Remember: You can't repeat the same action as your previous turn, and always announce bottom-row actions for other players' bonuses.
+Remember: You can't repeat the same action as your previous turn, and always announce bottom-row actions for other players' bonuses. Workers & Mechs Cannot activate encounter cards or gain you a Factory card by walking into the Factory tile.
+
+### Asylum Q's
+1. Q: Where do I place resource tokens when I gain them?
+   A: On the map territories you control, not on your player mat.
+
+2. Q: How do I get more workers?
+   A: Through the Produce action on village territories.
+
+3. Q: Can we place more than 1 star token on each achievement?
+   A: Generally no, except for the Saxony faction's special ability.
+
+4. Q: Can characters move across rivers?
+   A: Not without special abilities like Riverwalk.
+
+5. Q: Can resources be left unattended on the map?
+   A: Yes, but you can only use resources in territories you control.
+
+6. Q: What happens to encounter cards after use?
+   A: They're discarded to the bottom of the encounter deck.
+
+7. Q: How do I build a mine?
+   A: Use the Build action on a territory you control with a worker.
+
+8. Q: Do I gain coins when using the Enlist action?
+   A: Yes, as indicated by the coin icons on your player mat.
+
+9. Q: Does production depend on the number of workers?
+   A: Yes, each worker in a chosen territory produces one resource.
+
+10. Q: Can I split up the Move action?
+    A: No, complete all movements before doing the bottom action.
+
+11. Q: Can bottom row actions be done before top row actions?
+    A: No, always top row first, then bottom row.
+
+12. Q: Where are mechs placed when purchased?
+    A: On any territory you control with at least one of your workers.
+
+1. Q: Can you have multiple mechs on one tile?
+    A: Yes, there's no limit to the number of units on a territory.
+
+1. Q: Does the Rusviet Union 'Speed' Mech add an additional movement as well as additional hex per move?
+    A: No, the ability only applies to the speed of a character's movement.
+
+1. Q: What does the RESOURCES /= RESOURCE symbol on some of the Factory cards mean?
+    A: The cost is two resources, and they may not both be the same resource. Any other pair is valid.
+
+1. Q: What happens when two combat units on the same tile are attacked?
+	A: During combat, the player with two combat units () on the same tile can play 2 combat cards.
+
+1. Q: When moving units, can you move two units with the same action to gain an advantage during combat?
+	A: Yes, the move action must be completed before the combat starts.
 
 ### Video Tutorial
 
-![Scythe in About 3 MinutesScythe in about 3 minutes!](https://www.youtube.com/watch?v=YC3ysp3XInM)
+![Scythe in About 3 MinutesScythe in about 3 minutes![](moz-extension://ca2bf6e4-bc50-4a9a-9299-1fdc48d46ce6/icons/logo-2r.svg)](https://www.youtube.com/watch?v=YC3ysp3XInM)
 
--
+
 ![](https://youtu.be/ffMLIL5qGQg)
 
 ---
@@ -2162,6 +2225,100 @@ An opponent moving onto an armed trap token ends its
 movement and triggers it. The trap token remains on the
 territory and is now disarmed.
 ```
+
+Global
+Place board, 11 Encounter tokens, #p+1 Factory cards, 1 StructureBonus, and Encounter- and Combat decks.
+1stPlayer: lowest number on Faction board
+
+Player
+Deal random Faction- and PlayerBoard. Gain starting resources, -track positions and -Objective card(s). Place Character on HomeBase and 1 Worker on each adjacent hex. Check special ability on PlayerBoard.
+
+Banned Faction-/PlayerBoard combo: Crimea/Patriotic, Rusviet/Industrial
+
+Round
+Player takes Turn, play proceeds clockwise.
+
+Turn
+Place ActionToken on (different) action. Top action (first) and/or (must announce) bottom action. May complete Objective, any time during turn. When paying Resources, these must come from hexes you control.
+
+Move/Gain: must split movement. Trade: must be in hex with Worker. Produce: pay cost & choose hexes (its Workers produce).
+
+New Mechs/Structures spawn in hex with at least 1 Worker. Mech abilities also apply to Character. Mine only usable by its player. Mill activates hex during Produce & counts as 1 Worker. Recruit passive bonus triggers when you or player to your left/right takes the related action.
+
+
+Victory
+Game ends immediately when player places 6th star.
+Player with most $ wins: gain $ based on Popularity (Factory is 3 hexes) & Structure Bonus.
+VP
+
+MOVEMENT
+
+Tunnels: hexes are adjacent. Movement ends when entering hex with enemy unit(s), or Encounter (choose 1). Each driven off Worker result in -1 Popularity. Workers can't move into space with enemy unit(s). Mechs can carry any number of Workers. Resources (any) can be carried by any unit.
+
+COMBAT
+
+Plastic pieces partake in combat. Order of Combat in multiple hexes, resolved by attacking player. Mech abilities of the attacker trigger first.
+#CombatCards owned is public info.
+
+Per Combat: {1} Both secretly set PowerDial & CombatCards (#cards playable = number of plastic units in hex). {2} Reveal PowerDial & CombatCards: most Power wins. {3} Both players adjust Power track (reflects spent Power). Loser draws 1 CombatCard, if 1+ Power was spent.
+
+FACTORY
+
+End on Factory: choose 1 Factory card (max once per game) & place next to FactionBoard (5th action with double Move bottom action).
+MISC
+
+Control if hex has your unit(s) and/or {Structure & no enemy unit}. Encounter rewards drop in its hex. River walk enables crossing rivers into specific)hex types. Max 1 Structure per hex. Rewards/benefits: optional (may take less). Bribes: may form informal agreements with/without Coins.
+
+
+invaders
+from
+
+
+EXPANSION
+AFAR
+New factions: [A] Albion and [T] Togawa.
+
+Player
+When playing "6+ player" games, swap the following with the relevant tokens:
+
+Chrimea: Mech ability "Wayfare" Polonia: Faction ability
+1stPlayer: Xa comes after X (e.g. 2 before 2a)
+
+Victory
+[A] Controled hexes (non-HomeBase-adjacent) with Flag token, counts as +1 hex. [T] Control Hexes with armed (unactivated) Trap tokens if no enemy unit/structure.
+TOKENS
+
+After ending Character movement, may place Flag/Trap token on hex. These cannot be (re)moved. Max 1 token per hex (Flag or Trap). Place after Encounter/Combat.
+[T] Enemy unit(s) entering hex with Trap stop movement & gain penalty (before Combat).
+
+
+
+GAMBIT EXPANSION
+WIND
+the
+
+Modules: [R] Resolution and [A] Airships.
+
+Global
+[R] Draw Resolution tile (read new game-end conditions out loud).
+[A] Draw 1x Aggresive- & 1x Passive tile.
+Player
+[A] Place Airship in HomeBase.
+Note: Mech abilites don't apply to Airships.
+
+Victory
+[R] Tile determines game-end (trigger).
+
+[A] MOVEMENT
+
+Range: Passive tile topright  (+1 if using Factory's double Move). Ignores Rivers/Lakes restrictions, does not end movement if hex has enemy unit(s) (including enemy Airship) nor drive enemy Workers away, and cannot control hex nor enter enemy HomeBase.
+[A] COMBAT
+
+Cannot initiate Combat & enemy unit's can't initiate Combat on sole Airship. Does not increase allowed CombatCards in Combat.
+
+[A] TRANSPORT
+
+May carry Workers/Resources (see topright on Aggresive tile). Resources on Airships are under your control and can be spent (and count for end-game scoring). Workers on Airships don't contribute to Control, and cannot be dropped in hex with enemy unit(s).
 
 
 ---

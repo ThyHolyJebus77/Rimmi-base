@@ -1,3 +1,13 @@
+---
+PlayerCount: 2-7
+DurationETA: 42 minutes
+Summary: Mysterium is a cooperative deduction game where one player takes on the role of a ghost trying to communicate with psychics (other players) through abstract vision cards. The psychics must interpret these visions to solve a murder mystery by identifying the correct character, location, and object for each player within a limited time.
+BoardGameType: Co-Op
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/wfeAiLK5n5hD1omhnlYLLA__imagepage/img/FAbfi09ZD0NHVa9psSeSrBZPgms=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2601683.jpg)"
+---
+
 # Mysterium
 ## Brief Summary
 Mysterium is a cooperative deduction game where one player takes on the role of a ghost trying to communicate with psychics (other players) through abstract vision cards. The psychics must interpret these visions to solve a murder mystery by identifying the correct character, location, and object for each player within a limited time.

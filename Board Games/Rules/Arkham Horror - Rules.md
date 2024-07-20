@@ -1,5 +1,13 @@
+---
+PlayerCount: 1-8
+DurationETA: 240+ Minutes
+Summary: Arkham Horror is a cooperative board game set in H.P. Lovecraft's Cthulhu Mythos. Players take on the roles of investigators working together to seal gates to other dimensions and prevent an Ancient One from awakening and destroying the world.
+BoardGameType: Competitive
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/09KeqyJEtu2qcskbtlOhqw__imagepagezoom/img/P3PmylX59UMVifrBoItFpWTg2M4=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic5726297.jpg)"
+---
 # Arkham Horror
-
 ## Brief Summary
 Arkham Horror is a cooperative board game set in H.P. Lovecraft's Cthulhu Mythos. Players take on the roles of investigators working together to seal gates to other dimensions and prevent an Ancient One from awakening and destroying the world.
 

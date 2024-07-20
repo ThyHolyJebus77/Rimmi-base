@@ -1,3 +1,13 @@
+---
+PlayerCount: 2-5
+DurationETA: 60-90 minutes
+Summary: For-Ex is a currency trading board game for 2-5 players that simulates foreign exchange markets. Players act as international financiers, trading and manipulating seven major currencies through spot transactions, long-term contracts, investments, and divestments. The game features a dynamic market where currency values fluctuate based on player actions, with no randomness once play begins. Players aim to profit from currency exchange rate changes and dividend payouts from their investments. The game ends when all dividends are paid or a player goes bankrupt, with the winner being the player who has accumulated the most wealth in the strongest currency.
+BoardGameType: Competitive
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/vFDDjlBvbUXkLSJcSIbQxw__imagepage/img/Yqe-mGn28bdSKDKKlO8eJ1htHBQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3634880.jpg)"
+---
+
 # For-Ex
 ## Brief Summary
 FOR-EX is the game of currency trading. An opaque, nerdy, butterfly-effect game, players take on the roles of international financiers who trade and manipulate currency values. Each of the game's several currencies only has value relative to one another, and these fluctuate according to player investments and divestments.
@@ -656,7 +666,7 @@ fractions down. The player with the most money wins.
 ---
 # Workshop Link
 
-![]()
+[Tabletop Simulator](https://steamcommunity.com/sharedfiles/filedetails/?id=2062920721)
 
 ---
 

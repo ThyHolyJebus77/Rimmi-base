@@ -1,5 +1,16 @@
+---
+PlayerCount: 1-4
+DurationETA: 45-90 minutes
+Summary: "Play a team of burglars who are going to rob a bank. You must explore each floor, find the safes and crack them. Once you have cracked all the safes and got all the loots, escape to the roof to be exfiltrated before the guard gets you.\r\rYou can play up to 9 different characters with different abilities. Explore the rooms but beware, some rooms can trigger alarms and drag the guard attention. Use the abilities of the tools, the rooms or your character wisely so you can escape before you lose all your stealth tokens.\r\rWhen you feel comfortable enough, try a new challenge with the Fort Knox scenario with a different distribution of floors and rooms."
+BoardGameType: Co-Op
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/cPZZhbehOr-cXE1HRa6T3w__imagepagezoom/img/SACs8T8Su4QPa6v8Zt-apaPT9cA=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic2439102.png)"
+---
+
 # Burgle Bros
 
+Game has a Sequel, [[Burgle Bros 2 - Rules|Burgle Bros 2 - The Casino Capers]]
 ## Brief Summary
 Play a team of burglars who are going to rob a bank. You must explore each floor, find the safes and crack them. Once you have cracked all the safes and got all the loots, escape to the roof to be exfiltrated before the guard gets you.
 
@@ -946,7 +957,7 @@ its combination. Each tile in the combination must only be cracked
 ---
 # Workshop Link
 
-![]()
+[Tabletop Sim](https://steamcommunity.com/sharedfiles/filedetails/?id=2136736186)
 
 ---
 

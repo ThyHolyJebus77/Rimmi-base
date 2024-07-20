@@ -1,3 +1,13 @@
+---
+PlayerCount: 1-5
+DurationETA: 120+ Minutes
+Summary: Descent 2nd Edition is a dungeon-crawling board game where one player controls the evil Overlord while others play as heroes. Heroes explore dungeons, fight monsters, and complete quests, while the Overlord tries to thwart their efforts. The game features tactical combat, character progression, and a variety of scenarios that can be played individually or as part of a campaign.
+BoardGameType: Co-Op
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/ZN2rpiJ19lg5DZk_iYMMkQ__imagepage/img/9DVyWz-oAcvSCxv9cS_3girM9gU=/fit-in/900x600/filters:no_upscale():strip_icc()/pic1180640.jpg)"
+---
+
 # Descent 2nd Edition
 ## Brief Summary
 Descent 2nd Edition is a dungeon-crawling board game where one player controls the evil Overlord while others play as heroes. Heroes explore dungeons, fight monsters, and complete quests, while the Overlord tries to thwart their efforts. The game features tactical combat, character progression, and a variety of scenarios that can be played individually or as part of a campaign.
@@ -3555,5 +3565,5 @@ encounter of the quest. Heroes win or lose the game together.
 ---
 # Workshop Link
 
-![]()
+[Tabletop Sim](https://steamcommunity.com/sharedfiles/filedetails/?id=1371901280)
 

@@ -1,3 +1,13 @@
+---
+PlayerCount: 2-4
+DurationETA: 120+ Minutes
+Summary: "Doctor Who: Time of the Daleks is a cooperative board game where players take on the roles of different incarnations of the Doctor, traveling through time and space to solve dilemmas and prevent the Daleks from conquering Gallifrey. Players roll custom dice to overcome challenges, recruit companions, and use timey-wimey cards to gain advantages. The game is a race against time as the Doctors try to reach Gallifrey before the Daleks do."
+BoardGameType: Co-Op
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/vVc09yRXbhj56_OR6SuZUg__imagepage/img/bFIJtoEAiDwEybVfSB0k8nPzBrQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6166122.jpg)"
+---
+
 # Doctor Who: Time of the Daleks
 ## Brief Summary
 Doctor Who: Time of the Daleks is a cooperative board game where players take on the roles of different incarnations of the Doctor, traveling through time and space to solve dilemmas and prevent the Daleks from conquering Gallifrey. Players roll custom dice to overcome challenges, recruit companions, and use timey-wimey cards to gain advantages. The game is a race against time as the Doctors try to reach Gallifrey before the Daleks do.

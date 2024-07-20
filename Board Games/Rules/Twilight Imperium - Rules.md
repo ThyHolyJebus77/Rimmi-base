@@ -1,3 +1,12 @@
+---
+PlayerCount: 3-6
+DurationETA: 4-8 hours
+Summary: Twilight Imperium 4th Edition is an epic space opera board game where players take on the roles of galactic civilizations vying for dominance. Players explore the galaxy, develop technologies, engage in diplomacy and warfare, and compete to become the new rulers of the galaxy by achieving victory points through various means.
+BoardGameType: Competitive
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/_Ppn5lssO5OaildSE-FgFA__imagepagezoom/img/XukF6G6yGYG06y-ODGk7usmxZ-U=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic3727516.jpg)"
+---
 # Twilight Imperium (4th Edition)
 ## Brief Summary
 Twilight Imperium 4th Edition is an epic space opera board game where players take on the roles of galactic civilizations vying for dominance. Players explore the galaxy, develop technologies, engage in diplomacy and warfare, and compete to become the new rulers of the galaxy by achieving victory points through various means.
@@ -82,17 +91,18 @@ Twilight Imperium 4th Edition is an epic space opera board game where players ta
 
 ---
 ## Quick Start Rules Guide
-### Goal
+### Rules
+#### Goal
 Be the first to score 10 Victory Points (VP) by completing objectives and controlling the galaxy!
 
-### Setup:
+#### Setup:
 1. Choose alien races: Each player selects a faction and takes all associated components.
 2. Build galaxy: Use hexagonal system tiles to create the game board according to player count.
 3. Place starting units: Put your initial ships and ground forces on your home system.
 4. Distribute starting technologies, planet cards, and other faction-specific components.
 5. Shuffle objective decks and reveal initial public objectives.
 
-### Game Round:
+#### Game Round:
 Each round consists of 4 phases:
 
 1. Strategy Phase:
@@ -127,7 +137,7 @@ Each round consists of 4 phases:
    - Reveal and vote on two agendas that affect the game state
    - Use Influence from planets to cast votes
 
-### Key Concepts:
+#### Key Concepts:
 
 1. Command Tokens: Used to activate systems, increase fleet size, and perform strategic actions.
 
@@ -143,21 +153,21 @@ Each round consists of 4 phases:
 
 6. Objectives: The primary way to gain VP. Always work towards completing these!
 
-### First Round Walkthrough:
+#### First Round Walkthrough:
 1. Strategy Phase: Choose Strategy Cards in player order.
 2. Action Phase: 
    - Typical first actions: Move ships to nearby systems, claim planets, build units.
    - Use your Strategy Card.
 3. Status Phase: Likely no scoring yet, but gain new Command Tokens and ready cards.
 
-### Tips for New Players:
+#### Tips for New Players:
 - Focus on expanding to nearby systems and claiming planets early.
 - Pay attention to objectives and work towards them.
 - Don't neglect technology research.
 - Negotiate and form alliances, but be prepared for betrayal.
 - Manage your resources carefully - you'll never have enough to do everything!
 
-### Glossary:
+#### Glossary:
 
 1. Activate: To place a Command Token on a system, allowing you to take actions there.
 2. Combat: Rolling dice to resolve conflicts between units. Higher rolls usually win.
@@ -172,7 +182,7 @@ Each round consists of 4 phases:
 11. Objective: Goals that award Victory Points when completed.
 12. Space Dock: Structure that allows unit production on a planet.
 
-### Player Aids:
+#### Player Aids:
 
 1. The Federation of Sol (Humans):
    - Special Ability: Gain 1 extra Command Token each round
@@ -206,7 +216,7 @@ Each round consists of 4 phases:
 
 Remember, Twilight Imperium is a complex game. Don't worry if you make mistakes in your first game - focus on learning and having fun!
 
-## Video Tutorial
+### Video Tutorial
 
 ![Twilight Imperium 4 in About 3 MinutesTwilight Imperium 4 in about 3 minutes![](moz-extension://ca2bf6e4-bc50-4a9a-9299-1fdc48d46ce6/icons/logo-2r.svg)](https://www.youtube.com/watch?v=WpQMzY1uG2o)
 
@@ -1762,6 +1772,49 @@ Hyperlane tiles are not systems. They cannot have units on them
 and they cannot be targets for effects or abilities.
 ```
 
+Victory
+Game ends when a player reaches 10VP.
+
+MOVEMENT
+
+
+
+3-6	480	4.3
+
+
+Passing through Systems: unable if it has enemy Ships, may pick up own (unactivated
+
+
+
+Global
+Place MecatolRex (center) & ScoreTracker with both [Obj]ective decks (5x 'I', 5x 'II').
+SpeakerToken: random
+
+Player
+Take Faction- & Command[Sheet], Home-Planet Tile & -Cards, Faction [Tech]nology. Place [Con]trolToken on ScoreTracker (0), [C]ommandTokens on Sheet (3xTactics, 3xFleet, 2xStrategy).  Draw 2x Secret [Obj] (keep 1).
+Finally: Build board with HomePlanet tiles, then all place/take starting Units/Tech. Reveal 2x 'I' [Obj].
+
+Round
+{1} Speaker picks [Strat]egy card (proceed clockwise). Add TradeGood to unchosen.
+{2} Players take Turns (Initiative/Strat order). {3a} May score 1 Public- (place [Con]) and/or 1 Secret [Obj]. {3b} Reveal next Public [Ob]. {3c} All: draw 1 ActionCard, remove [C]  from board & gain 2 & rearrange on Sheet, ready cards, repair Units & return Strats. {4} If CustodianToken taken: Speaker (breaks ties) goes first (proceed clockwise): 2x {draw & vote-on 1 Agenda}. Finally, refresh Planets.
+Turn
+Take 1 Action: {a} Activate system with Tactics [C], {b} Strat: resolve Primary ability, then others may perform Secondary,
+{c} Component (anything with 'Action:' on it), {d} Pass (only if own Strat played, may still activate Secondary of other player's Strat).
+
+Transaction: May perform 1 per neighbouring player. Includes Commodities (turns into TradeGoods) & PromisoryNotes (max 1 each per Transaction, doesn't have to be own PromisoryNote).
+
+system's) GroundForces. LandLocked if in activated system. Place [Con] on Planets if no Units remaining. Max #Units in a system equal to [C] in Fleet (Sheet).
+
+PLANETS & SYSTEMS
+PlanetType (targeted by effects) &
+-TechSpecialities (exhaust to temperory gain Tech symbol). PlanetControl: when GroundForces on it (destroy any enemy SpaceDock & PDS after gaining control). MegatolRex: first player here must spend 6 Influcence & gains token (1VP). Max 2xPDS & 1xSpaceDock per Planet.
+
+SuperNova: unpassable. AsteroidField: unpassable without Tech. Nebula: can't Move through & going in/out reduces all Speed to 1 (but Rolls +1 if Defending). Gravity-Rift: Ships Moving out have +1 Speed (Roll Die for each: 1-3 destroys Ship). Wormholes: Treat Systems are adjacent.
+
+COMBAT
+Retreat: need adjancent System you control or has 1+ of your Units. CombatRound: Per Ship in battle, Roll a Die (1 per starburst, at least 1): if value >= Ship's Combat, land 1Hit. ActionCard: can't play duplicates in same CombatRound (resolve in Initiative order). SustainDamage: may cancel 1 Hit (flip Unit) but "Direct Hit" ActionCard could destroy Unit if you do. Capacity checked after Combat.
+MISC
+SpaceDock: ProductionCapacity = Planet's {Resource+2}. Tech requirements (bottom-left) and gained Tech symbol (bottomright). Secret[Ob]: max 3 (includes completed). Some can be completed outside Status phase. TradeGoods: can be spent as Resources/Influence (not in Agenda phase).
 
 ---
 # Workshop Link

@@ -1,3 +1,12 @@
+---
+PlayerCount: 3-6
+DurationETA: 60-120 minutes
+Summary: Munchkin is a satirical card game that parodies fantasy role-playing games. Players compete to reach level 10 by defeating monsters, collecting treasure, and sabotaging each other. The game combines elements of strategy, luck, and player interaction with a humorous theme.
+BoardGameType: Competitive
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/J-ts3MW0UhDzs621TR6cog__imagepage/img/HJAhCcz8QJbVAYYQI71uYLsKkRM=/fit-in/900x600/filters:no_upscale():strip_icc()/pic1871016.jpg)"
+---
 # Munchkin
 ## Brief Summary
 Munchkin is a satirical card game that parodies fantasy role-playing games. Players compete to reach level 10 by defeating monsters, collecting treasure, and sabotaging each other. The game combines elements of strategy, luck, and player interaction with a humorous theme.

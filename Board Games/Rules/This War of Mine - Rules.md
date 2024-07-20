@@ -1,3 +1,13 @@
+---
+PlayerCount: 1-6
+DurationETA: 45-120 Minutes
+Summary: This War of Mine is a cooperative survival board game set in a war-torn city. Players control a group of civilian survivors struggling to stay alive amid shortages and danger. The game focuses on difficult moral choices, resource management, and emotional storytelling as players scavenge for supplies and try to outlast the conflict.
+BoardGameType: Co-Op
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/gQOQW7p1RWHzY54Lrs-_pA__imagepage/img/oqafX3UqrqNZz5215t4FEuIQm0E=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3315915.jpg)"
+---
+
 # This War of Mine
 ## Brief Summary
 This War of Mine is a cooperative survival board game set in a war-torn city. Players control a group of civilian survivors struggling to stay alive amid shortages and danger. The game focuses on difficult moral choices, resource management, and emotional storytelling as players scavenge for supplies and try to outlast the conflict.

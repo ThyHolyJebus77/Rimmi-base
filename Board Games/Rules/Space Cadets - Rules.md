@@ -1,3 +1,13 @@
+---
+PlayerCount: 3-6
+DurationETA: 90-120 minutes
+Summary: Space Cadets is a cooperative board game where players work together as crew members of a starship, each responsible for a different station. Players must coordinate their actions in real-time to complete missions, fend off enemy attacks, and navigate space hazards. The game simulates the frantic pace and teamwork required to operate a spaceship under pressure.
+BoardGameType: Co-Op
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/YTPL0ZG_8Y4EQfiCXZzvrg__imagepage/img/eO3W3S0WzqpdW9E5Dy6O-mQGYJw=/fit-in/900x600/filters:no_upscale():strip_icc()/pic1362404.jpg)"
+---
+
 # Space Cadets
 
 ## Brief Summary
@@ -2501,7 +2511,7 @@ down 1 box.
 ---
 # Workshop Link
 
-![]()
+[Tabletop Simulator](https://steamcommunity.com/sharedfiles/filedetails/?id=2178124949)
 
 ---
 

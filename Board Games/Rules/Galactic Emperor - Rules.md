@@ -1,3 +1,13 @@
+---
+PlayerCount: 3-6
+DurationETA: 90 Minutes
+Summary: Galactic Emperor is a space-themed 4X board game where players compete to build the most powerful galactic empire. Players explore sectors, manage resources, build fleets, and engage in diplomacy and combat. The game combines role selection, area control, and technology advancement as players vie for victory points and galactic dominance.
+BoardGameType: Competitive
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/bNgzFXDihytDZjjNbxAfdA__imagepage/img/piSh-zRla2Xq8S5Qfu4blfR2_9g=/fit-in/900x600/filters:no_upscale():strip_icc()/pic252954.jpg)"
+---
+
 # Galactic Emperor
 ## Brief Summary
 Galactic Emperor is a space-themed 4X board game where players compete to build the most powerful galactic empire. Players explore sectors, manage resources, build fleets, and engage in diplomacy and combat. The game combines role selection, area control, and technology advancement as players vie for victory points and galactic dominance.

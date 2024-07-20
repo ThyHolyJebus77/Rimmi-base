@@ -1,3 +1,13 @@
+---
+PlayerCount: 2-4
+DurationETA: 30-45 minutes
+Summary: "The game consists of 24 episodes, beginning with the development of a city in its early preindustrial stages and progressing through industrialization. During each game, players customize their experience by adding elements to their personal boards and adding cards to the game. Players' choices and action made during one session of gameplay carry over into the next session, creating a personalized gaming experience.\r\rFor players who do not want to experience My City as a legacy game, a double-sided game board offers an alternate set-up for repeatable play."
+BoardGameType: Competitive
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/fz4aYmycg9baQlm_DzwyKA__imagepage/img/5CCvqfCgqJPTedTrS1ungDQB2A8=/fit-in/900x600/filters:no_upscale():strip_icc()/pic7443423.jpg)"
+---
+
 # `=this.file.name`
 
 ## Brief Summary

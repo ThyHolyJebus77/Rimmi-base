@@ -1,3 +1,13 @@
+---
+PlayerCount: 2-5
+DurationETA: 45-60 minutes
+Summary: "Power Rangers: Heroes of the Grid is a cooperative board game where players take on the roles of the Mighty Morphin Power Rangers to defend Angel Grove from Rita Repulsa's monsters. Players work together to battle enemies, manage resources, and ultimately defeat the boss to win the game. The game features dice-based combat, card management, and strategic positioning across different locations in Angel Grove."
+BoardGameType: Co-Op
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/0KgGvgtbZkuvHj1ljJ_ziQ__imagepage/img/6ZUlbN7DrLC5UKyOYD-jebMQy1I=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4263326.png)"
+---
+
 # Power Rangers: Heroes of the Grid
 
 ## Brief Summary

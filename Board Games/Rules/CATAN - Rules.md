@@ -1,7 +1,15 @@
-# `=this.file.name`
-
+---
+tags:
+  - BoardGame
+BoardGameType: Competitive
+PlayerCount: 3-6
+DurationETA: 60-120 minutes
+Summary: Settlers of Catan is a competitive strategy game where players colonize an island, build settlements and cities, and trade resources. Players roll dice to produce resources, which they use to expand their territory and earn victory points. The first player to reach 10 victory points wins.
+CoverArt: "![Image of Catan game board](https://upload.wikimedia.org/wikipedia/en/a/a3/Catan-2015-boxart.jpg)"
+---
+# CATAN
 ## Brief Summary
-Settlers of Catan is a competitive strategy game where players colonize an island, build settlements and cities, and trade resources. Players roll dice to produce resources, which they use to expand their territory and earn victory points. The first player to reach 10 victory points wins.
+`INPUT[text:Summary]`
 
 ![Image of Catan game board](https://upload.wikimedia.org/wikipedia/en/a/a3/Catan-2015-boxart.jpg)
 
@@ -14,9 +22,9 @@ Settlers of Catan is a competitive strategy game where players colonize an islan
 - Catan is much shorter, typically lasting 1-2 hours vs. Civ's multi-hour gameplay
 
 ## Key Information
-- **Players:** 3-4 (base game)
-- Players compete against each other
-- **Play Time:** 60-120 minutes
+- **Players:** `INPUT[text:PlayerCount]`
+- `INPUT[text:BoardGameType]`
+- **Play Time:** `INPUT[text:DurationETA]`
 - **Year:** 1995
 
 ### Key Mechanics
@@ -90,7 +98,7 @@ Have fun settling Catan!
 <iframe src=""width=720 height=720></iframe>
 
 ---
-# `=this.file.name`
+# CATAN - Rules
 
 _Dear Settlers,
 To make it as easy as possible for you to start playing_ **_Catan®_** _, we use an award-winning rules system, which consists
@@ -1798,7 +1806,7 @@ E
 ---
 # Workshop Link
 
-![]()
+[Tabletop Simulator](https://steamcommunity.com/sharedfiles/filedetails/?id=660395369&searchtext=)
 
 ---
 

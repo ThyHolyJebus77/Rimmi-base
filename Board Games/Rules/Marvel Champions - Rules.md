@@ -1,3 +1,13 @@
+---
+PlayerCount: 
+DurationETA: 
+Summary: 
+BoardGameType: 
+tags:
+  - BoardGame
+CoverArt: "![]()"
+---
+
 # `=this.file.name`
 
 ## Brief Summary
@@ -58,7 +68,7 @@
 ---
 # Workshop Link
 
-![]()
+[Tabletop Simulator](https://steamcommunity.com/sharedfiles/filedetails/?id=2824240402)
 
 ---
 

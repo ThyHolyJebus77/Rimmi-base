@@ -1,3 +1,13 @@
+---
+PlayerCount: 1+
+DurationETA: 90+ Minutes
+Summary: Star Wars Imperial Assault is a tactical miniatures board game set in the Star Wars universe. Players control either Rebel heroes or Imperial forces in a series of missions. The game features both a campaign mode for 2-5 players and a skirmish mode for 2 players, combining elements of dungeon crawling, tactical combat, and character progression.
+BoardGameType: Competitive & Co-Op
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/pIQ_MXvaoARRp1loCHJuHg__imagepage/img/SoLstYUfNX5VI2VI8KXjy-ayA4I=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2247647.jpg)"
+MyRating: 10
+---
 # `=this.file.name`
 
 ## Brief Summary

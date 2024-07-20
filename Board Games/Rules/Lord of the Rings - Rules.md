@@ -1,3 +1,13 @@
+---
+PlayerCount: 2-5
+DurationETA: 60+ Minutes
+Summary: Lord of the Rings (2000) is a cooperative board game where players take on the roles of hobbits on a perilous journey to destroy the One Ring. Players must work together to navigate through various conflicts, manage corruption, and utilize resources wisely while racing against Sauron's growing influence. The game combines storytelling elements with strategic decision-making and resource management.
+BoardGameType: Co-Op
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/oWttjfs235Zh7jLGWO7_Hg__imagepagezoom/img/VgGEgwlFUWU1HdICto2Ye9tn6WY=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic479124.jpg)"
+---
+
 # Lord of the Rings - The Boardgame
 
 ## Brief Summary

@@ -1,3 +1,13 @@
+---
+PlayerCount: 2-4
+DurationETA: 90-120 minutes
+Summary: "War of the Ring: The Card Game is a strategic card game set in J.R.R. Tolkien's Middle-earth. Players take on the roles of the Free Peoples or the Shadow, battling for control of key locations and the fate of the One Ring. The game features deck-building, hand management, and combat resolution through icon matching. Players must balance their actions between strengthening their forces and advancing their goals on the path to victory."
+BoardGameType: Competitive
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/ScrF673pQhrx27WoVdG81g__imagepage/img/NB3lLb5tTiARnx0m5Icrem0tPxU=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6982333.png)"
+---
+
 # War of the Ring: The Card Game
 ## Brief Summary
 War of the Ring: The Card Game is a strategic card game set in J.R.R. Tolkien's Middle-earth. Players take on the roles of the Free Peoples or the Shadow, battling for control of key locations and the fate of the One Ring. The game features deck-building, hand management, and combat resolution through icon matching. Players must balance their actions between strengthening their forces and advancing their goals on the path to victory.

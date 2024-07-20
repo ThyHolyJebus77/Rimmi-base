@@ -1,3 +1,13 @@
+---
+PlayerCount: "2"
+DurationETA: 45+ Minutes
+Summary: Stronghold is a two-player asymmetric siege warfare game. One player defends a fortress while the other commands an invading army. The game revolves around resource management, tactical positioning, and strategic decision-making as the invader attempts to breach the walls within 7 rounds while the defender tries to hold out.
+BoardGameType: Competitive
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/bqKVFPMa19yNMD6BJv0vVQ__imagepage/img/wflyTFtrjo9rG4PrJVIWRwolwY0=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2642989.jpg)"
+---
+
 # Stronghold 2e
 
 ## Brief Summary

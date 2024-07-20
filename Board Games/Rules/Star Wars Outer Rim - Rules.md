@@ -1,3 +1,14 @@
+---
+PlayerCount: 1-4
+DurationETA: 120-180 minutes
+Summary: "Star Wars: Outer Rim is a competitive board game where 1-4 players become infamous scoundrels in the Star Wars galaxy, vying to become the most renowned outlaw. Players navigate a modular map, taking on jobs, collecting bounties, and upgrading their ships while managing their reputation with various factions. The game combines action selection, dice rolling, and set collection mechanics as players engage in encounters, trade in markets, and occasionally battle patrols or other targets. With multiple paths to victory and asymmetric character abilities, players race to be the first to achieve 10 fame (or 12 in the extended game), balancing risk and reward in their quest for galactic notoriety."
+BoardGameType: Competitive
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/RjwAj6hw5aEMGvosEA12gw__imagepagezoom/img/ST6KS6HGReStEnQWN3xfHfv4T9g=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic5879810.jpg)"
+MyRating: 8
+---
+
 # Star Wars Outer Rim
 
 ## Brief Summary

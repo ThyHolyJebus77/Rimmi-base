@@ -1,3 +1,13 @@
+---
+PlayerCount: 1-4
+DurationETA: 60-240 minutes
+Summary: "Mage Knight: Ultimate Edition is a complex, epic board game that combines deck-building, exploration, and conquest. Players control powerful Mage Knights, exploring a modular map, fighting monsters, recruiting units, and conquering cities. The game features deep strategic decision-making and can be played competitively or cooperatively."
+BoardGameType: Competitive & Co-Op
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/jgsT5y5qKlOR08CuHG7xfw__imagepagezoom/img/VsMxqIqov77EOCcOwikrDif0A1g=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic4411189.jpg)"
+MyRating: 8
+---
 # Mage Knight
 
 ## Brief Summary
@@ -1577,5 +1587,6 @@ next turn. Flip over at start of next turn
 ---
 # Workshop Link
 
-![]()
+[Tabletop Sim (Scripted)](https://steamcommunity.com/sharedfiles/filedetails/?id=1721301081)
 
+---

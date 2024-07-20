@@ -1,4 +1,14 @@
-# `=this.file.name`
+---
+PlayerCount: 2-4
+DurationETA: 60+ Minutes
+Summary: A War of Whispers is a competitive board game where players control secret societies influencing five warring empires. Players bet on empires' success and manipulate the war's outcome through strategic agent placement and card play.
+BoardGameType: Competitive
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/D3Fl15xiRd0QtghO0ZBiRA__imagepage/img/ldJbckYbrdzZAxNmVd5uZD4-uLE=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4150994.jpg)"
+---
+
+# A War of Whispers
 
 ## Brief Summary
 A War of Whispers is a competitive board game where players control secret societies influencing five warring empires. Players bet on empires' success and manipulate the war's outcome through strategic agent placement and card play.
@@ -124,7 +134,7 @@ Remember, the key to winning is subtly influencing the empires while keeping you
 
 ---
 
-# War of Whispers - Rules
+# A War of Whispers - Rules
 
 ```
 Five mighty empires are at war for the world.
@@ -966,3 +976,13 @@ return it to its home banner reserve pile.
 ---
 # A.I. Generate Solo Rules
 ![[War of Whispers - Solo Rules]]
+
+---
+
+# Workshop
+
+[Tabletop Sim (Scripted)](https://steamcommunity.com/sharedfiles/filedetails/?id=2132768956)
+
+[Tabletop Sim (5 Player Edition)](https://steamcommunity.com/sharedfiles/filedetails/?id=2116095922)
+
+[Tabletop Sim (Elder Scrolls Version)](https://steamcommunity.com/sharedfiles/filedetails/?id=2783266044)

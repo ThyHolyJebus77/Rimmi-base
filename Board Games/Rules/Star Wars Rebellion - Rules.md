@@ -1,3 +1,13 @@
+---
+PlayerCount: 2-4
+DurationETA: 180+ Minutes
+Summary: Star Wars Rebellion is an epic board game that pits the Galactic Empire against the Rebel Alliance. Players engage in a grand strategy game of cat-and-mouse, where the Rebels must survive long enough to inspire systems to join their cause, while the Empire searches for the hidden Rebel base to crush the rebellion once and for all.
+BoardGameType: Competitive & Co-Op
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/7SrPNGBKg9IIsP4UQpOi8g__imagepagezoom/img/cvaTGqGnEhAvZ2tYnlu2IOp6fP0=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic4325841.jpg)"
+---
+
 # # Star Wars Rebellion
 ## Brief Summary
 Star Wars Rebellion is an epic board game that pits the Galactic Empire against the Rebel Alliance. Players engage in a grand strategy game of cat-and-mouse, where the Rebels must survive long enough to inspire systems to join their cause, while the Empire searches for the hidden Rebel base to crush the rebellion once and for all.
@@ -2286,5 +2296,6 @@ end of the combat.
 ---
 # Workshop Link
 
-![]()
+[Tabletop Sim](https://steamcommunity.com/sharedfiles/filedetails/?id=674546583)
 
+---

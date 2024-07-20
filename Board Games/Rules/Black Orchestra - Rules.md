@@ -1,3 +1,13 @@
+---
+PlayerCount: 1-5
+DurationETA: 45+ Minutes
+Summary: Black Orchestra is a cooperative board game set in Nazi Germany where players take on the roles of historical conspirators attempting to assassinate Hitler. Players must carefully manage their suspicion levels, gather resources, and coordinate their efforts to carry out plots against Hitler and his deputies while avoiding arrest.
+BoardGameType: Co-Op
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/mvE22ut60-N5qzhE9guINw__imagepage/img/LoV1rtyGXoje25DlEb8QNAMfmTc=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6973676.png)"
+---
+
 # Black Orchestra
 ## Brief Summary
 Black Orchestra is a cooperative board game set in Nazi Germany where players take on the roles of historical conspirators attempting to assassinate Hitler. Players must carefully manage their suspicion levels, gather resources, and coordinate their efforts to carry out plots against Hitler and his deputies while avoiding arrest.

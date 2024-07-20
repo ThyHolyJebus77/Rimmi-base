@@ -1,3 +1,14 @@
+---
+PlayerCount: 1-5
+DurationETA: 120-180 Minutes
+Summary: Mansions of Madness 2nd Edition is a cooperative, app-driven board game set in H.P. Lovecraft's Cthulhu Mythos. Players take on the roles of investigators exploring haunted mansions and other mysterious locations, solving puzzles, fighting monsters, and uncovering dark secrets. The game uses a digital app to guide gameplay, generate scenarios, and control enemy actions, creating a unique and immersive experience each time you play.
+BoardGameType: Co-Op
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/LIooA9bTdjnE9qmhjL-UFw__imagepagezoom/img/mae4t3Gk6O9c0bJ8J3IETyZcrfE=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic3118622.jpg)"
+My Rating:
+---
+
 # Mansions of Madness 2nd Edition
 
 ## Brief Summary
@@ -1244,5 +1255,5 @@ to end the game.
 ---
 # Workshop Link
 
-![]()
+[Tabletop Simulator Link](https://steamcommunity.com/sharedfiles/filedetails/?id=1373667528)
 

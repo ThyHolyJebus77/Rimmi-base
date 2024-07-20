@@ -1,3 +1,13 @@
+---
+PlayerCount: 2+
+DurationETA: 180+ Minutes
+Summary: Merchants & Marauders is a pirate-themed board game set in the Caribbean. Players take on the role of a ship captain, choosing to be either a merchant or a pirate. The game combines elements of trading, naval combat, and exploration as players seek to gain glory points through various means.
+BoardGameType: Competitive
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/RmKYojYHmV8X-ebtNgaz-g__imagepage/img/DhsNqblAoesFszW_9lJjV8ACzx4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic738119.jpg)"
+---
+
 # `=this.file.name`
 
 ## Brief Summary
@@ -3023,5 +3033,6 @@ Bounties match the local port.
 ---
 # Workshop Link
 
-![]()
+[Tabletop Sim](https://steamcommunity.com/sharedfiles/filedetails/?id=2186011187)
 
+---

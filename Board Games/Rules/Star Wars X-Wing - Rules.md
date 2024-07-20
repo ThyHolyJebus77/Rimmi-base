@@ -1,3 +1,14 @@
+---
+PlayerCount: 1+
+DurationETA: 30-45 Minutes
+Summary: "Star Wars: X-Wing is a tactical space combat miniatures game set in the Star Wars universe. Players control starfighter squadrons, manoeuvring their ships and attacking opponents using a unique movement system and dice-based combat. The game features highly detailed pre-painted miniatures of iconic Star Wars ships. Players customize their squadrons with different pilots and upgrades to create varied tactical experiences."
+BoardGameType: Competitive & Co-Op
+tags:
+  - BoardGame
+CoverArt: "![](https://cf.geekdo-images.com/oPYTn7JgqxEsOuJ835WQnw__imagepage/img/gHztl13Xs_t2iVjmQwwV_XlnSUM=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4271201.jpg)"
+MyRating: 7
+---
+
   
 # Star Wars: X-Wing
 ## Brief Summary
@@ -1527,5 +1538,6 @@ tokens remain on cards until removed by effects.
 ---
 # Workshop Link
 
-![]()
+[Tabletop Sim](https://steamcommunity.com/sharedfiles/filedetails/?id=2486128992)
 
+---
