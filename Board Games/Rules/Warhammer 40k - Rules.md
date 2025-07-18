@@ -74,6 +74,159 @@ Warhammer 40,000 (10th Edition) is a tabletop wargame set in a dystopian science
 
 Remember, have fun and don't worry about getting every rule perfect in your first game!
 
+#### FAQ
+
+##### Can you target multiple units?
+Yes, when attacking with a unit that has multiple weapons, you can split your attacks between different enemy units. Here are the key rules:
+
+1. A model with more than 1 ranged weapon can:
+- Shoot all weapons at the same target
+- Shoot each weapon at different targets
+- BUT cannot split attacks from the same weapon across multiple targets
+
+2. A unit with multiple models can:
+- Have all models shoot at the same target
+- Have different models shoot at different targets
+- Follow the same rule about not splitting individual weapon attacks
+
+For example:
+- If you have a tank with a main cannon and two side weapons, you could shoot:
+  - All weapons at one target
+  - Main cannon at one target, side weapons at another
+  - Each weapon at a different target
+- But you couldn't split the shots from a single weapon between multiple targets
+
+The key is declaring all your targets before making any attack rolls.
+
+##### When attacking, what determines how many dice you roll?
+
+In Warhammer 40k 10th edition, the number of dice you roll when attacking is determined by the "ATTACKS" (A) characteristic of the weapon being used. Each weapon profile lists its ATTACKS value, which tells you how many attack dice to roll.
+
+For example:
+- If a weapon has "A:1", you roll 1 die
+- If it has "A:3", you roll 3 dice
+- If it has "A:D6", you roll one D6 to determine the number of attacks
+- If it has "A:2D6", you roll two D6 and add them together
+
+Some special rules and abilities can modify the number of attacks:
+1. BLAST weapons get +1 attack for every 5 models in the target unit
+2. RAPID FIRE weapons get bonus attacks when targeting units within half range
+3. Some abilities or stratagems might grant additional attacks
+
+The basic formula is:
+Base Attacks (from weapon profile) + Any modifiers from special rules = Total number of attack dice to roll
+
+##### When an enemy is attacking my group of 3 units but 1 is behinnd cover, how does this work?
+
+In Warhammer 40k 10th edition, when an enemy is attacking your group of 3 units where 1 is behind cover, here's how it works:
+
+1. Line of Sight (LOS):
+- The attacker must first determine which models they can see
+- Models completely behind cover cannot be targeted unless the weapon has the INDIRECT FIRE ability
+- Models partially visible can be targeted
+
+2. Benefit of Cover:
+- A model gets the benefit of cover if it is not fully visible to every model in the attacking unit because of terrain
+- If the model has the benefit of cover, it gets +1 to its saving throw against ranged attacks
+- Note: Models with a 3+ or better Save characteristic cannot benefit from cover against attacks with AP0
+
+3. Allocating Wounds:
+- Wounds must first be allocated to models that have already lost wounds
+- After that, you can allocate wounds to any models in the unit, even those in cover
+- You cannot allocate wounds to models that weren't visible to the attacking unit when it was selected as a target
+
+Example:
+If you have 3 Space Marines and 1 is behind cover:
+- The attacker can only target the 2 visible models initially
+- If those models die and more attacks remain, they can then be allocated to the model in cover
+- The model in cover gets +1 to its saving throws against ranged attacks if it has the benefit of cover
+
+###### What if 2 units are in Line of sight, while the 3rd is not?
+
+In this case, when 2 units are in Line of Sight and 1 is completely out of sight:
+
+1. Target Selection:
+- The attacker can only initially select and target the 2 visible units
+- The unit completely out of Line of Sight cannot be targeted at all (unless the weapon has INDIRECT FIRE)
+
+2. Attack Resolution:
+- All attacks must be declared before any dice are rolled
+- The attacker must split their attacks between the 2 visible targets
+- The hidden unit cannot be allocated any wounds since it wasn't visible when targets were selected
+
+Important Rule: "Provided at least 1 model in the target unit was visible and in range of the shooter when that target was selected, that weapon's attacks can still be made, even if none of the models remain visible or in range when you resolve them."
+
+Example:
+Let's say an enemy unit is shooting at your squad of 3 Space Marines:
+- 2 Marines are visible
+- 1 Marine is completely hidden behind a building
+- The attacker can only target the 2 visible Marines
+- Even if both visible Marines die, remaining attacks cannot "spill over" to the hidden Marine
+- The hidden Marine survives regardless of remaining attacks
+
+This is why positioning and using cover effectively is a crucial tactical element in Warhammer 40k.
+
+##### When determining the damage dealt, my attacker has strength of 4 & I have toughness 5
+
+When Strength (4) is lower than Toughness (5), you need a roll of 5+ on a D6 to successfully wound.
+
+The full table for reference is:
+- S twice (or more) than T: 2+
+- S greater than T: 3+
+- S equal to T: 4+
+- S lower than T: 5+
+- S half (or less) than T: 6+
+
+So in your specific case (S4 vs T5), since the Strength is lower than but not half or less than the Toughness, you need a roll of 5 or 6 on a D6 to successfully wound.
+
+Remember:
+- An unmodified roll of 6 is always a critical wound and automatically succeeds
+- An unmodified roll of 1 always fails
+- Wound rolls can never be modified by more than -1 or +1
+
+###### How many dice are rolled for this wound? Is it equal to the amount of hits?
+
+You roll one wound roll for each successful hit.
+The attack sequence goes:
+1. Hit Rolls - Roll number of dice equal to weapon's Attacks characteristic
+2. Wound Rolls - Roll one die for each successful hit
+3. Save Rolls - Roll one die for each successful wound
+
+For example:
+- If your weapon has 4 Attacks, you roll 4 dice for hits
+- If 3 of those hits are successful
+- You then roll 3 dice for wounds (needing 5+ in your S4 vs T5 scenario)
+- If 2 of those wounds are successful
+- Your opponent then makes 2 saving throws
+
+Remember that some weapons and abilities can modify the number of attacks or grant additional hits (like the Sustained Hits ability), but the basic principle remains - each successful hit generates one wound roll.
+
+##### Do I roll at all during an attack against me?
+Yes, you roll during an attack against you, but only at the Saving Throw step. The attacking player rolls for Hits and Wounds, while you (the defending player) make the Saving Throws.
+
+Here's the sequence showing who rolls what:
+1. ATTACKER rolls Hit rolls
+2. ATTACKER rolls Wound rolls
+3. DEFENDER rolls Saving throws
+
+For example, if someone attacks your unit:
+1. They roll their hits
+2. They roll their wounds
+3. YOU roll saving throws for each successful wound, using your unit's Save characteristic (modified by the weapon's AP)
+
+You also roll if your models have special defensive abilities like Feel No Pain X+, where you roll to try to ignore wounds after failing a save.
+
+Key points for defender rolls:
+- You only roll saves for successful wounds
+- You roll one save per successful wound
+- The roll needed is your Save characteristic (modified by AP)
+- An unmodified roll of 1 always fails
+- If you have an invulnerable save, you must choose whether to use it or your normal save before rolling
+
+##### Who chooses which models take the wounds?
+The player who controls the models picks which ones take the damage. But a model that has already been wounded, or wounded this round Must be chosen first.
+
+
 ### Video Tutorial
 
 ![How to Play Warhammer 40k [in Under 10 Minutes]](https://www.youtube.com/watch?v=7z5f0d1VO1Q&pp=ygUZd2FyaGFtbWVyIDQwayBob3cgdG8gcGxheQ%3D%3D "How to Play Warhammer 40k [in Under 10 Minutes]")
